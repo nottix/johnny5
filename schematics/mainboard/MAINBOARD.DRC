@@ -1,0 +1,43 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR:  [DRC0004]  Possible pin type conflict VDD Bidirectional Port Connected to Power
+                    SCHEMATIC1, PAGE1  (208.28, 22.86) 
+ERROR:  [DRC0004]  Possible pin type conflict VDD Bidirectional Port Connected to Power
+                    SCHEMATIC1, PAGE1  (170.18, 60.96) 
+ERROR:  [DRC0004]  Possible pin type conflict U1,VDD Power Connected to Bidirectional Port
+                    SCHEMATIC1, PAGE1  (167.64, 60.96) 
+ERROR:  [DRC0004]  Possible pin type conflict U2,IN Power Connected to Bidirectional Port
+                    SCHEMATIC1, PAGE1  (20.32, 20.32) 
+ERROR:  [DRC0004]  Possible pin type conflict GND Bidirectional Port Connected to Power
+                    SCHEMATIC1, PAGE1  (208.28, 25.40) 
+ERROR:  [DRC0004]  Possible pin type conflict GND Bidirectional Port Connected to Power
+                    SCHEMATIC1, PAGE1  (96.52, 129.54) 
+ERROR:  [DRC0004]  Possible pin type conflict U1,VSS Power Connected to Bidirectional Port
+                    SCHEMATIC1, PAGE1  (99.06, 127.00) 
+ERROR:  [DRC0003]  Port has a type which is inconsistent with other ports on the net Vcc-5V
+                    SCHEMATIC1, PAGE1  (205.74, 76.20) 
+ERROR:  [DRC0004]  Possible pin type conflict U2,OUT Power Connected to Bidirectional Port
+                    SCHEMATIC1, PAGE1  (50.80, 20.32) 
+ERROR:  [DRC0003]  Port has a type which is inconsistent with other ports on the net RC6
+                    SCHEMATIC1, PAGE1  (129.54, 154.94) 
+ERROR:  [DRC0003]  Port has a type which is inconsistent with other ports on the net RC6
+                    SCHEMATIC1, PAGE1  (129.54, 182.88) 
+WARNING:  [DRC0004]  Possible pin type conflict U1,RC6/TX/CK Bidirectional Connected to Output Port
+                    SCHEMATIC1, PAGE1  (167.64, 81.28) 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0007]  Net has no driving source N23819
+                    SCHEMATIC1, PAGE1  (231.14, 33.02) 
+WARNING:  [DRC0006]  Net has fewer than two connections N23819
+                    SCHEMATIC1, PAGE1  (231.14, 33.02) 
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Check Bus width mismatch

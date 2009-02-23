@@ -1,0 +1,40 @@
+Johnny Mainboard  Revised: Sunday, January 25, 2009
+1          Revision: 1.0
+
+
+
+
+
+
+
+Bill Of Materials        January 26,2009      19:58:43	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	15nF
+2	2	C2,C3	15pF
+3	1	C4	10uF
+4	2	C5,C6	47n
+5	2	D1,D2	LED
+6	1	J1	ICSP
+7	1	J2	Power
+8	1	J3	CONN_SOCKET_2x2
+9	1	J4	RDa
+10	1	J5	RDb
+11	1	J6	RAa
+12	1	J7	RAb
+13	1	J8	RBa
+14	1	J9	RBb
+15	1	J10	REa
+16	1	J11	REb
+17	1	J14	RCb
+18	1	J15	RCa
+19	1	R1	1.5k
+20	4	R2,R4,R5,R6	1k
+21	1	R3	R
+22	1	SW1	Reset
+23	1	SW2	Program
+24	1	U1	PIC18F4550_40P
+25	1	U2	L7805CV
+26	1	Y1	20Mhz
