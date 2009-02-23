@@ -1,0 +1,86 @@
+AutoECO Report
+FILE-A: I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\MAINBOARD\MAINBOARD-2.MAX
+FILE-B: I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\MAINBOARD\MAINBOARD.MNL
+If "*EOF*" immediately follows, no changes were made
+Overriding all component coordinates
+Adding package L78XX_TO220
+Component J15 -- overriding attributes
+Component C1 -- overriding attributes
+Component C2 -- overriding attributes
+Component C4 -- overriding attributes
+Component J9 -- overriding attributes
+Component D1 -- overriding attributes
+Component R4 -- overriding attributes
+Component C3 -- overriding attributes
+Component J8 -- overriding attributes
+Component J4 -- overriding attributes
+Component J2 -- overriding attributes
+Component R2 -- overriding attributes
+Component R1 -- overriding attributes
+Component J7 -- overriding attributes
+Component J14 -- overriding attributes
+Component J3 -- overriding attributes
+Component J11 -- overriding attributes
+Component U2 -- overriding attributes
+Component R3 -- overriding attributes
+Component C6 -- overriding attributes
+Component J5 -- overriding attributes
+Component R6 -- overriding attributes
+Component J1 -- overriding attributes
+Component U1 -- overriding attributes
+Component J10 -- overriding attributes
+Component J6 -- overriding attributes
+Component R5 -- overriding attributes
+Component SW1 -- overriding attributes
+Component Y1 -- overriding attributes
+Component D2 -- overriding attributes
+Component SW2 -- overriding attributes
+Component C5 -- overriding attributes
+Net RB2 -- overriding attributes
+Net RB4 -- overriding attributes
+Net RE3 -- overriding attributes
+Net RE2 -- overriding attributes
+Net RE1 -- overriding attributes
+Net RE0 -- overriding attributes
+Net RC5 -- overriding attributes
+Net RC4 -- overriding attributes
+Net RC6 -- overriding attributes
+Net RC7 -- overriding attributes
+Net RC1 -- overriding attributes
+Net RC2 -- overriding attributes
+Net RC0 -- overriding attributes
+Net RD0 -- overriding attributes
+Net RD1 -- overriding attributes
+Net RD2 -- overriding attributes
+Net RD6 -- overriding attributes
+Net RD3 -- overriding attributes
+Net N00802 -- overriding attributes
+Net RD4 -- overriding attributes
+Net GND -- overriding attributes
+Net RD7 -- overriding attributes
+Net RD5 -- overriding attributes
+Net N00894 -- overriding attributes
+Net VCC-5V -- overriding attributes
+Net VCC -- overriding attributes
+Net N88980 -- overriding attributes
+Net N89175 -- overriding attributes
+Adding net N91923
+Net N04463 -- overriding attributes
+Net PGM -- overriding attributes
+Net VDD -- overriding attributes
+Net PGD -- overriding attributes
+Net PGC -- overriding attributes
+Net RA4 -- overriding attributes
+Net RA6 -- overriding attributes
+Net RA1 -- overriding attributes
+Net RA5 -- overriding attributes
+Net RA2 -- overriding attributes
+Net RA3 -- overriding attributes
+Net RA0 -- overriding attributes
+Net RB1 -- overriding attributes
+Net RB3 -- overriding attributes
+Net RB0 -- overriding attributes
+Deleting net N80497
+Deleting net DEFAULT
+*EOF*
+No errors found

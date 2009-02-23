@@ -1,0 +1,1447 @@
+MPLINK 4.20, Linker
+Linker Map File - Created Sun Feb 22 00:06:12 2009
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+               _entry_scn       code   0x000000    program   0x000006
+    HIGH_INTERRUPT_VECTOR       code   0x000008    program   0x000006
+     LOW_INTERRUPT_VECTOR       code   0x000018    program   0x000006
+    REMAPPED_RESET_VECTOR       code   0x001000    program   0x000006
+REMAPPED_HIGH_INTERRUPT_VECTOR       code   0x001008    program   0x000006
+REMAPPED_LOW_INTERRUPT_VECTOR       code   0x001018    program   0x000006
+                   .cinit    romdata   0x00102a    program   0x00001a
+         .code_vfprintf.o       code   0x001044    program   0x000c22
+       .code_usb_device.o       code   0x001c66    program   0x000abc
+             .code_main.o       code   0x002722    program   0x0008b0
+ .code_usb_function_hid.o       code   0x002fd2    program   0x0000da
+         .code_i2c_eerr.o       code   0x0030ac    program   0x0000ae
+               _cinit_scn       code   0x00315a    program   0x00009e
+                   STRING       code   0x0031f8    program   0x00009a
+           .code_printf.o       code   0x003292    program   0x000098
+.romdata_usb_descriptors.o    romdata   0x00332a    program   0x000090
+             .code_putc.o       code   0x0033ba    program   0x000084
+         .code_i2c_eebw.o       code   0x00343e    program   0x000078
+          .code_fxm3232.o       code   0x0034b6    program   0x000070
+           .code_uputrs.o       code   0x003526    program   0x000064
+         .code_pw2setdc.o       code   0x00358a    program   0x00005e
+         .code_pw1setdc.o       code   0x0035e8    program   0x00005e
+                     PROG       code   0x003646    program   0x00005a
+          .code_pw2open.o       code   0x0036a0    program   0x000058
+         .code_i2c_writ.o       code   0x0036f8    program   0x00004a
+         .code_fxd3232u.o       code   0x003742    program   0x000048
+            .code_uread.o       code   0x00378a    program   0x00003e
+           .code_t1read.o       code   0x0037c8    program   0x00003e
+           .code_t0read.o       code   0x003806    program   0x00003e
+          .code_t1write.o       code   0x003844    program   0x000038
+          .code_t0write.o       code   0x00387c    program   0x000038
+         .code_i2c_open.o       code   0x0038b4    program   0x000036
+          .code_pw1open.o       code   0x0038ea    program   0x000030
+           .code_uwrite.o       code   0x00391a    program   0x00002e
+                    CTYPE       code   0x003948    program   0x000024
+             _startup_scn       code   0x00396c    program   0x00001c
+                    STDIO       code   0x003988    program   0x00001c
+              D10TCYXCODE       code   0x0039a4    program   0x000016
+      .romdata_vfprintf.o    romdata   0x0039ba    program   0x000011
+       .idata_t0write.o_i    romdata   0x0039cb    program   0x000000
+          .romdata_putc.o    romdata   0x0039cb    program   0x000000
+      .romdata_i2c_writ.o    romdata   0x0039cb    program   0x000000
+      .idata_i2c_writ.o_i    romdata   0x0039cb    program   0x000000
+         .romdata_udefs.o    romdata   0x0039cb    program   0x000000
+         .idata_udefs.o_i    romdata   0x0039cb    program   0x000000
+      .romdata_pw2setdc.o    romdata   0x0039cb    program   0x000000
+      .idata_pw2setdc.o_i    romdata   0x0039cb    program   0x000000
+    .idata__user_putc.o_i    romdata   0x0039cb    program   0x000000
+      .romdata_pw1setdc.o    romdata   0x0039cb    program   0x000000
+      .idata_pw1setdc.o_i    romdata   0x0039cb    program   0x000000
+    .romdata__user_putc.o    romdata   0x0039cb    program   0x000000
+        .romdata_stdout.o    romdata   0x0039cb    program   0x000000
+      .idata_vfprintf.o_i    romdata   0x0039cb    program   0x000000
+        .romdata_uputrs.o    romdata   0x0039cb    program   0x000000
+        .idata_uputrs.o_i    romdata   0x0039cb    program   0x000000
+      .idata_fxd3232u.o_i    romdata   0x0039cb    program   0x000000
+        .romdata_printf.o    romdata   0x0039cb    program   0x000000
+        .idata_printf.o_i    romdata   0x0039cb    program   0x000000
+      .romdata_fxd3232u.o    romdata   0x0039cb    program   0x000000
+       .idata_fxm3232.o_i    romdata   0x0039cb    program   0x000000
+        .romdata___init.o    romdata   0x0039cb    program   0x000000
+        .idata___init.o_i    romdata   0x0039cb    program   0x000000
+        .romdata_uwrite.o    romdata   0x0039cb    program   0x000000
+        .idata_uwrite.o_i    romdata   0x0039cb    program   0x000000
+       .romdata_t1write.o    romdata   0x0039cb    program   0x000000
+       .idata_t1write.o_i    romdata   0x0039cb    program   0x000000
+       .romdata_fxm3232.o    romdata   0x0039cb    program   0x000000
+       .romdata_t0write.o    romdata   0x0039cb    program   0x000000
+          .idata_putc.o_i    romdata   0x0039cb    program   0x000000
+         .idata_c018i.o_i    romdata   0x0039cb    program   0x000000
+         .romdata_c018i.o    romdata   0x0039cb    program   0x000000
+.idata_usb_descriptors.o_i    romdata   0x0039cb    program   0x000000
+          .romdata_main.o    romdata   0x0039cb    program   0x000000
+    .idata_usb_device.o_i    romdata   0x0039cb    program   0x000000
+    .romdata_usb_device.o    romdata   0x0039cb    program   0x000000
+.idata_usb_function_hid.o_i    romdata   0x0039cb    program   0x000000
+.romdata_usb_function_hid.o    romdata   0x0039cb    program   0x000000
+      .idata_pw1close.o_i    romdata   0x0039cb    program   0x000000
+      .romdata_pw1close.o    romdata   0x0039cb    program   0x000000
+      .idata_pw2close.o_i    romdata   0x0039cb    program   0x000000
+      .romdata_pw2close.o    romdata   0x0039cb    program   0x000000
+      .idata_i2c_eebw.o_i    romdata   0x0039cb    program   0x000000
+      .romdata_i2c_eebw.o    romdata   0x0039cb    program   0x000000
+         .romdata_uread.o    romdata   0x0039cb    program   0x000000
+         .idata_uread.o_i    romdata   0x0039cb    program   0x000000
+        .romdata_t1read.o    romdata   0x0039cb    program   0x000000
+        .idata_t1read.o_i    romdata   0x0039cb    program   0x000000
+        .romdata_t0read.o    romdata   0x0039cb    program   0x000000
+        .idata_t0read.o_i    romdata   0x0039cb    program   0x000000
+       .romdata_pw2open.o    romdata   0x0039cb    program   0x000000
+       .idata_pw2open.o_i    romdata   0x0039cb    program   0x000000
+      .idata_i2c_eerr.o_i    romdata   0x0039cb    program   0x000000
+      .romdata_i2c_eerr.o    romdata   0x0039cb    program   0x000000
+       .romdata_pw1open.o    romdata   0x0039cb    program   0x000000
+      .idata_i2c_open.o_i    romdata   0x0039cb    program   0x000000
+       .idata_pw1open.o_i    romdata   0x0039cb    program   0x000000
+      .romdata_i2c_open.o    romdata   0x0039cb    program   0x000000
+            .code_c018i.o       code   0x0039cc    program   0x000000
+  .code_usb_descriptors.o       code   0x0039cc    program   0x000000
+           .code_stdout.o       code   0x0039cc    program   0x000000
+            .code_udefs.o       code   0x0039cc    program   0x000000
+                    .code       code   0x0039cc    program   0x00000e
+             .stringtable    romdata   0x0039da    program   0x00000c
+         .code_pw1close.o       code   0x0039e6    program   0x000006
+         .code_pw2close.o       code   0x0039ec    program   0x000004
+       .code__user_putc.o       code   0x0039f0    program   0x000002
+           .code___init.o       code   0x0039f2    program   0x000002
+        .idata_stdout.o_i    romdata   0x0039f4    program   0x000002
+          .idata_main.o_i    romdata   0x0039f6    program   0x000015
+    .config_300000_main.o    romdata   0x300000    program   0x000001
+    .config_300001_main.o    romdata   0x300001    program   0x000001
+    .config_300002_main.o    romdata   0x300002    program   0x000001
+    .config_300003_main.o    romdata   0x300003    program   0x000001
+    .config_300005_main.o    romdata   0x300005    program   0x000001
+    .config_300006_main.o    romdata   0x300006    program   0x000001
+    .config_300008_main.o    romdata   0x300008    program   0x000001
+    .config_300009_main.o    romdata   0x300009    program   0x000001
+    .config_30000a_main.o    romdata   0x30000a    program   0x000001
+    .config_30000b_main.o    romdata   0x30000b    program   0x000001
+    .config_30000c_main.o    romdata   0x30000c    program   0x000001
+    .config_30000d_main.o    romdata   0x30000d    program   0x000001
+                MATH_DATA      udata   0x000000       data   0x000014
+                 .tmpdata      udata   0x000014       data   0x000007
+            .udata_main.o      udata   0x000060       data   0x00002b
+      .udata_usb_device.o      udata   0x00008b       data   0x000025
+            .idata_main.o      idata   0x0000b0       data   0x000015
+           .udata_c018i.o      udata   0x0000c5       data   0x00000a
+.udata_usb_function_hid.o      udata   0x0000cf       data   0x000003
+          .idata_stdout.o      idata   0x0000d2       data   0x000002
+           .udata_udefs.o      udata   0x0000d4       data   0x000001
+          .idata___init.o      idata   0x0000d5       data   0x000000
+          .udata___init.o      udata   0x0000d5       data   0x000000
+          .idata_uwrite.o      idata   0x0000d5       data   0x000000
+          .udata_uwrite.o      udata   0x0000d5       data   0x000000
+         .idata_t1write.o      idata   0x0000d5       data   0x000000
+         .udata_t1write.o      udata   0x0000d5       data   0x000000
+         .idata_t0write.o      idata   0x0000d5       data   0x000000
+         .udata_t0write.o      udata   0x0000d5       data   0x000000
+        .idata_i2c_writ.o      idata   0x0000d5       data   0x000000
+        .udata_i2c_writ.o      udata   0x0000d5       data   0x000000
+           .idata_udefs.o      idata   0x0000d5       data   0x000000
+        .idata_pw2setdc.o      idata   0x0000d5       data   0x000000
+        .udata_pw2setdc.o      udata   0x0000d5       data   0x000000
+          .udata_printf.o      udata   0x0000d5       data   0x000000
+          .idata_printf.o      idata   0x0000d5       data   0x000000
+          .udata_uputrs.o      udata   0x0000d5       data   0x000000
+          .idata_uputrs.o      idata   0x0000d5       data   0x000000
+          .udata_stdout.o      udata   0x0000d5       data   0x000000
+        .udata_vfprintf.o      udata   0x0000d5       data   0x000000
+        .idata_vfprintf.o      idata   0x0000d5       data   0x000000
+        .udata_fxd3232u.o      udata   0x0000d5       data   0x000000
+        .idata_fxd3232u.o      idata   0x0000d5       data   0x000000
+         .udata_fxm3232.o      udata   0x0000d5       data   0x000000
+         .idata_fxm3232.o      idata   0x0000d5       data   0x000000
+            .udata_putc.o      udata   0x0000d5       data   0x000000
+            .idata_putc.o      idata   0x0000d5       data   0x000000
+      .udata__user_putc.o      udata   0x0000d5       data   0x000000
+      .idata__user_putc.o      idata   0x0000d5       data   0x000000
+           .idata_c018i.o      idata   0x0000d5       data   0x000000
+ .udata_usb_descriptors.o      udata   0x0000d5       data   0x000000
+ .idata_usb_descriptors.o      idata   0x0000d5       data   0x000000
+      .idata_usb_device.o      idata   0x0000d5       data   0x000000
+.idata_usb_function_hid.o      idata   0x0000d5       data   0x000000
+        .udata_pw1close.o      udata   0x0000d5       data   0x000000
+        .idata_pw1close.o      idata   0x0000d5       data   0x000000
+        .udata_pw2close.o      udata   0x0000d5       data   0x000000
+        .idata_pw2close.o      idata   0x0000d5       data   0x000000
+        .udata_i2c_eebw.o      udata   0x0000d5       data   0x000000
+        .idata_i2c_eebw.o      idata   0x0000d5       data   0x000000
+        .udata_i2c_eerr.o      udata   0x0000d5       data   0x000000
+        .idata_i2c_eerr.o      idata   0x0000d5       data   0x000000
+        .udata_i2c_open.o      udata   0x0000d5       data   0x000000
+        .idata_i2c_open.o      idata   0x0000d5       data   0x000000
+         .udata_pw1open.o      udata   0x0000d5       data   0x000000
+         .idata_pw1open.o      idata   0x0000d5       data   0x000000
+         .udata_pw2open.o      udata   0x0000d5       data   0x000000
+         .idata_pw2open.o      idata   0x0000d5       data   0x000000
+          .udata_t0read.o      udata   0x0000d5       data   0x000000
+          .idata_t0read.o      idata   0x0000d5       data   0x000000
+          .udata_t1read.o      udata   0x0000d5       data   0x000000
+          .idata_t1read.o      idata   0x0000d5       data   0x000000
+        .idata_pw1setdc.o      idata   0x0000d5       data   0x000000
+           .udata_uread.o      udata   0x0000d5       data   0x000000
+        .udata_pw1setdc.o      udata   0x0000d5       data   0x000000
+           .idata_uread.o      idata   0x0000d5       data   0x000000
+                   .stack      udata   0x000300       data   0x000100
+                  USB_BDT      udata   0x000400       data   0x000036
+            USB_VARIABLES      udata   0x000500       data   0x000080
+            SFR_UNBANKED0      udata   0x000f62       data   0x00009e
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000005      
+                            0x000008    0x00000d      
+                            0x000018    0x00001d      
+                            0x001000    0x001005      
+                            0x001008    0x00100d      
+                            0x001018    0x00101d      
+                            0x00102a    0x0039ca      
+                            0x0039cc    0x003a0a      
+                            0x300000    0x300003      
+                            0x300005    0x300006      
+                            0x300008    0x30000d      
+            10768 out of 33048 program addresses used, program memory utilization is 32%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+           BlinkUSBStatus   0x002d8c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                ClosePWM1   0x0039e6    program     extern C:\MCC18\src\pmc_common\PWM\pw1close.c
+                ClosePWM2   0x0039ec    program     extern C:\MCC18\src\pmc_common\PWM\pw2close.c
+                    D10_1   0x0039b4    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+                     D10x   0x0039ac    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+              Delay10TCYx   0x0039a4    program     extern C:\MCC18\src\traditional\delays\d10tcyx.asm
+           DelayRXBitUART   0x00273e    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       DelayRXHalfBitUART   0x002756    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+           DelayTXBitUART   0x002722    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              EEByteWrite   0x00343e    program     extern C:\MCC18\src\pmc_common\i2c\i2c_eebw.c
+             EERandomRead   0x0030ac    program     extern C:\MCC18\src\pmc_common\i2c\i2c_eerr.c
+                 FXD3232U   0x003742    program     extern C:\MCC18\src\traditional\math\fxd3232u.c
+                 FXM1616S   0x003646    program     extern C:\MCC18\src\traditional\math\fxm1616s.asm
+                  FXM3232   0x0034b6    program     extern C:\MCC18\src\traditional\math\fxm3232.c
+      HIDGetReportHandler   0x0030a8    program     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+      HIDSetReportHandler   0x0030aa    program     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+                 High_ISR   0x000008    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+         InitializeSystem   0x0027f0    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+          InitializeUSART   0x0027fc    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  Low_ISR   0x000018    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  OpenI2C   0x0038b4    program     extern C:\MCC18\src\pmc_common\i2c\i2c_open.c
+                 OpenPWM1   0x0038ea    program     extern C:\MCC18\src\pmc_common\PWM\pw1open.c
+         OpenPWM1ConfigIO   0x003916    program     extern C:\MCC18\src\pmc_common\PWM\pw1open.c
+                 OpenPWM2   0x0036a0    program     extern C:\MCC18\src\pmc_common\PWM\pw2open.c
+                ProcessIO   0x002868    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  ReadPOT   0x002d5a    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               ReadTimer0   0x003806    program     extern C:\MCC18\src\pmc_common\Timers\t0read.c
+               ReadTimer1   0x0037c8    program     extern C:\MCC18\src\pmc_common\Timers\t1read.c
+                ReadUSART   0x00378a    program     extern C:\MCC18\src\pmc_common\USART\uread.c
+        Remapped_High_ISR   0x001008    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+         Remapped_Low_ISR   0x001018    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                SetDCPWM1   0x0035e8    program     extern C:\MCC18\src\pmc_common\PWM\pw1setdc.c
+                SetDCPWM2   0x00358a    program     extern C:\MCC18\src\pmc_common\PWM\pw2setdc.c
+         Switch2IsPressed   0x002d1e    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+         Switch3IsPressed   0x002d3c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               TSIGN1616A   0x003692    program     static C:\MCC18\src\traditional\math\fxm1616s.asm
+       USBCBCheckOtherReq   0x002e12    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+        USBCBErrorHandler   0x002e10    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              USBCBInitEP   0x002e18    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+          USBCBSendResume   0x002e2c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+    USBCBStdSetDscHandler   0x002e16    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+             USBCBSuspend   0x002e0a    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+     USBCBWakeFromSuspend   0x002e0c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+        USBCB_SOF_Handler   0x002e0e    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       USBCheckHIDRequest   0x002fd2    program     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+       USBCheckStdRequest   0x001f78    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+    USBClearInterruptFlag   0x00250a    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+     USBConfigureEndpoint   0x0023c6    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+         USBCtrlEPService   0x001df8    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+ USBCtrlEPServiceComplete   0x0021ce    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBCtrlTrfInHandler   0x001e70    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+     USBCtrlTrfOutHandler   0x001e60    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBCtrlTrfRxService   0x0022e2    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+   USBCtrlTrfSetupHandler   0x001e3e    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBCtrlTrfTxService   0x00223e    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+            USBDeviceInit   0x001c66    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+           USBDeviceTasks   0x001cd4    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+        USBEnableEndpoint   0x00243c    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+USBPrepareForNextSetupTrf   0x001ec8    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+         USBStallEndpoint   0x00247e    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+          USBStallHandler   0x001db6    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+  USBStdFeatureReqHandler   0x00201c    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBStdGetDscHandler   0x0020dc    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+   USBStdGetStatusHandler   0x002152    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBStdSetCfgHandler   0x002394    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+               USBSuspend   0x001dd8    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+     USBTransferOnePacket   0x0024a4    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+       USBWakeFromSuspend   0x001de4    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+               USB_CD_Ptr   0x0033b2    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+               USB_SD_Ptr   0x0033b4    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                 UserInit   0x00281e    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                 WriteI2C   0x0036f8    program     extern C:\MCC18\src\pmc_common\i2c\i2c_writ.c
+              WriteTimer0   0x00387c    program     extern C:\MCC18\src\pmc_common\Timers\t0write.c
+              WriteTimer1   0x003844    program     extern C:\MCC18\src\pmc_common\Timers\t1write.c
+               WriteUSART   0x00391a    program     extern C:\MCC18\src\pmc_common\USART\uwrite.c
+  YourHighPriorityISRCode   0x002764    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+   YourLowPriorityISRCode   0x00276a    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              _2jContinue   0x003218    program     static C:\MCC18\src\traditional\stdclib\memset.asm
+                   _2jEnd   0x00327c    program     static C:\MCC18\src\traditional\stdclib\slenpgm.asm
+                   _3jEnd   0x003222    program     static C:\MCC18\src\traditional\stdclib\memset.asm
+        _D10TCYXCODE_000A   0x0039ae    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000C   0x0039b0    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000E   0x0039b2    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+       ___return_lbl00000   0x003524    program     static                          
+       ___return_lbl00000   0x00273c    program     static                          
+       ___return_lbl00000   0x003788    program     static                          
+       ___return_lbl00000   0x000004    program     static                          
+       ___return_lbl00001   0x002754    program     static                          
+       ___return_lbl00001   0x003986    program     static                          
+       ___return_lbl00002   0x002762    program     static                          
+       ___return_lbl00002   0x0031f6    program     static                          
+       ___return_lbl00003   0x001004    program     static                          
+       ___return_lbl00004   0x00100c    program     static                          
+       ___return_lbl00005   0x00101c    program     static                          
+       ___return_lbl00006   0x00000c    program     static                          
+       ___return_lbl00007   0x00001c    program     static                          
+               __config_0   0x300000    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_1   0x300001    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              __config_10   0x30000c    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              __config_11   0x30000d    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_2   0x300002    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_3   0x300003    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_4   0x300005    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_5   0x300006    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_6   0x300008    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_7   0x300009    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_8   0x30000a    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_9   0x30000b    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __init   0x0039f2    program     extern C:\MCC18\src\traditional\stdclib\__init.c
+                   __pa_0   0x002534    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_0   0x0034a8    program     static C:\MCC18\src\pmc_common\i2c\i2c_eebw.c
+                   __pa_0   0x00314c    program     static C:\MCC18\src\pmc_common\i2c\i2c_eerr.c
+                   __pa_0   0x001984    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_0   0x002e48    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_1   0x002542    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_1   0x002e56    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_1   0x00198c    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_10   0x002f26    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_10   0x0025aa    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_10   0x001a40    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_11   0x001a4e    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_11   0x0025be    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_11   0x002f36    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_12   0x001a64    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_12   0x0025d0    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_12   0x002f46    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_13   0x002f56    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_13   0x001a7e    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_13   0x0025ec    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_14   0x002f66    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_14   0x001a96    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_14   0x0025f6    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_15   0x0025fc    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_15   0x002f74    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_15   0x001aa6    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_16   0x002600    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_16   0x001abc    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_16   0x002f82    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_17   0x00260c    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_17   0x001ace    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_17   0x002f8e    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_18   0x002618    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_18   0x001ae0    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_18   0x002f9a    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_19   0x001aea    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_19   0x002fa8    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_19   0x002628    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_2   0x001996    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_2   0x002e7c    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_2   0x002556    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_20   0x001afa    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_20   0x002638    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_20   0x002fb0    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_21   0x002648    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_21   0x001b0a    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_21   0x002fba    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_22   0x002fc2    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_22   0x002656    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_22   0x001b1a    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_23   0x001b26    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_23   0x002664    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_24   0x002672    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_24   0x001b34    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_25   0x00267c    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_25   0x001b3c    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_26   0x002698    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_26   0x001b46    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_27   0x0026a4    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_27   0x001b50    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_28   0x0026b0    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_28   0x001b58    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_29   0x0026ba    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_29   0x001b66    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_3   0x0019a0    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_3   0x002e98    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_3   0x002560    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_30   0x001b82    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_30   0x0026c2    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_31   0x0026cc    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_31   0x001b9c    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_32   0x0026d6    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_32   0x001bb6    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_33   0x001bce    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_33   0x0026e4    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_34   0x001bd8    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_34   0x0026f4    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_35   0x0026fa    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_35   0x001be6    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_36   0x002702    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_36   0x001bee    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_37   0x001bf8    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_37   0x002718    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_38   0x001c08    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_39   0x001c16    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_4   0x002eb4    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_4   0x0019b8    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_4   0x00256a    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_40   0x001c22    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_41   0x001c2e    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_42   0x001c36    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_43   0x001c40    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_44   0x001c46    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_45   0x001c50    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_46   0x001c5c    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_5   0x002572    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_5   0x002ec8    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_5   0x0019cc    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_6   0x002576    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_6   0x002ed4    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_6   0x0019e8    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_7   0x002584    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_7   0x002eea    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_7   0x0019f2    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_8   0x002590    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_8   0x002efe    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_8   0x0019fe    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_9   0x002f12    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_9   0x00259a    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_9   0x001a20    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+               __string_0   0x0039da    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              __tmplbl_25   0x0025fc    program     static                          
+              __tmplbl_31   0x0025fc    program     static                          
+              __tmplbl_42   0x001b1a    program     static                          
+              __tmplbl_43   0x001962    program     static                          
+              __tmplbl_44   0x001948    program     static                          
+              __tmplbl_85   0x00109a    program     static                          
+            __zero_memory   0x0039cc    program     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                _do_cinit   0x00315a    program     extern C:\MCC18\src\traditional\startup\c018i.c
+                   _entry   0x000000    program     extern C:\MCC18\src\traditional\startup\c018i.c
+                   _false   0x003784    program     static                          
+                   _reset   0x001000    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                 _startup   0x00396c    program     extern C:\MCC18\src\traditional\startup\c018i.c
+              _usart_putc   0x003988    program     extern C:\MCC18\src\pmc_common\USART\_usartpc.asm
+               _user_putc   0x0039f0    program     extern C:\MCC18\src\traditional\stdclib\_user_putc.c
+               clear_loop   0x0039d2    program     static C:\MCC18\src\traditional\proc\p18F4550.asm
+        configDescriptor1   0x00333c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                copy_loop   0x0031cc    program     static                          
+            copy_one_byte   0x0031d2    program     static                          
+               device_dsc   0x00332a    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                     done   0x0031f6    program     static                          
+             done_copying   0x0031e0    program     static                          
+                hid_rpt01   0x003395    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                  isdigit   0x003948    program     extern C:\MCC18\src\traditional\stdclib\isdigit.asm
+                     jEnd   0x003246    program     static C:\MCC18\src\traditional\stdclib\strlen.asm
+                     jEnd   0x00327e    program     static C:\MCC18\src\traditional\stdclib\slenpgm.asm
+                     jEnd   0x00322a    program     static C:\MCC18\src\traditional\stdclib\memset.asm
+                    jLoop   0x003266    program     static C:\MCC18\src\traditional\stdclib\slenpgm.asm
+                    jLoop   0x00323c    program     static C:\MCC18\src\traditional\stdclib\strlen.asm
+                    jLoop   0x00320c    program     static C:\MCC18\src\traditional\stdclib\memset.asm
+                   jMatch   0x003968    program     static C:\MCC18\src\traditional\stdclib\isdigit.asm
+                 jNoMatch   0x00396a    program     static C:\MCC18\src\traditional\stdclib\isdigit.asm
+                     loop   0x003750    program     static                          
+                     loop   0x00397c    program     static                          
+                     loop   0x003998    program     static C:\MCC18\src\pmc_common\USART\_usartpc.asm
+                     main   0x002784    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   memset   0x0031f8    program     extern C:\MCC18\src\traditional\stdclib\memset.asm
+                   printf   0x003292    program     extern C:\MCC18\src\traditional\stdclib\printf.c
+                     putc   0x0033ba    program     extern C:\MCC18\src\traditional\stdclib\putc.c
+               putrsUSART   0x003526    program     extern C:\MCC18\src\pmc_common\USART\uputrs.c
+                 s_digits   0x0039ba    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+            s_put_n_chars   0x001044    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                    sd000   0x003365    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                    sd001   0x003369    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                    sd002   0x003387    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                   strlen   0x00322c    program     extern C:\MCC18\src\traditional\stdclib\strlen.asm
+                strlenpgm   0x003248    program     extern C:\MCC18\src\traditional\stdclib\slenpgm.asm
+                     test   0x003174    program     static                          
+                 vfprintf   0x001070    program     extern C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   ADCON0   0x000fc2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               ADCON0bits   0x000fc2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   ADCON1   0x000fc1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               ADCON1bits   0x000fc1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   ADCON2   0x000fc0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               ADCON2bits   0x000fc0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    ADRES   0x000fc3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   ADRESH   0x000fc4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   ADRESL   0x000fc3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  BAUDCON   0x000fb8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              BAUDCONbits   0x000fb8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      BDT   0x000400       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                      BSR   0x000fe0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCP1AS   0x000fb6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               CCP1ASbits   0x000fb6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  CCP1CON   0x000fbd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              CCP1CONbits   0x000fbd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  CCP1DEL   0x000fb7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              CCP1DELbits   0x000fb7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  CCP2CON   0x000fba       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              CCP2CONbits   0x000fba       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    CCPR1   0x000fbe       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCPR1H   0x000fbf       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCPR1L   0x000fbe       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    CCPR2   0x000fbb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCPR2H   0x000fbc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCPR2L   0x000fbb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    CMCON   0x000fb4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                CMCONbits   0x000fb4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CVRCON   0x000fb5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               CVRCONbits   0x000fb5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              CtrlTrfData   0x000428       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                     DDRA   0x000f92       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDRAbits   0x000f92       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     DDRB   0x000f93       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDRBbits   0x000f93       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     DDRC   0x000f94       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDRCbits   0x000f94       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     DDRD   0x000f95       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDRDbits   0x000f95       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     DDRE   0x000f96       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDREbits   0x000f96       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  ECCP1AS   0x000fb6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              ECCP1ASbits   0x000fb6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 ECCP1CON   0x000fbd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+             ECCP1CONbits   0x000fbd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 ECCP1DEL   0x000fb7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+             ECCP1DELbits   0x000fb7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    EEADR   0x000fa9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   EECON1   0x000fa6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               EECON1bits   0x000fa6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   EECON2   0x000fa7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   EEDATA   0x000fa8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     FSR0   0x000fe9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR0H   0x000fea       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR0L   0x000fe9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     FSR1   0x000fe1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR1H   0x000fe2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR1L   0x000fe1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     FSR2   0x000fd9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR2H   0x000fda       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR2L   0x000fd9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  HLVDCON   0x000fd2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              HLVDCONbits   0x000fd2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    INDF0   0x000fef       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    INDF1   0x000fe7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    INDF2   0x000fdf       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   INTCON   0x000ff2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  INTCON2   0x000ff1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              INTCON2bits   0x000ff1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  INTCON3   0x000ff0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              INTCON3bits   0x000ff0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               INTCONbits   0x000ff2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     IPR1   0x000f9f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 IPR1bits   0x000f9f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     IPR2   0x000fa2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 IPR2bits   0x000fa2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATA   0x000f89       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATAbits   0x000f89       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATB   0x000f8a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATBbits   0x000f8a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATC   0x000f8b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATCbits   0x000f8b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATD   0x000f8c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATDbits   0x000f8c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATE   0x000f8d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATEbits   0x000f8d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   LVDCON   0x000fd2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               LVDCONbits   0x000fd2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   OSCCON   0x000fd3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               OSCCONbits   0x000fd3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  OSCTUNE   0x000f9b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              OSCTUNEbits   0x000f9b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                       PC   0x000ff9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      PCL   0x000ff9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PCLATH   0x000ffa       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PCLATU   0x000ffb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PIE1   0x000f9d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 PIE1bits   0x000f9d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PIE2   0x000fa0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 PIE2bits   0x000fa0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PIR1   0x000f9e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 PIR1bits   0x000f9e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PIR2   0x000fa1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 PIR2bits   0x000fa1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PLUSW0   0x000feb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PLUSW1   0x000fe3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PLUSW2   0x000fdb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTA   0x000f80       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTAbits   0x000f80       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTB   0x000f81       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTBbits   0x000f81       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTC   0x000f82       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTCbits   0x000f82       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTD   0x000f83       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTDbits   0x000f83       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTE   0x000f84       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTEbits   0x000f84       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTDEC0   0x000fed       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTDEC1   0x000fe5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTDEC2   0x000fdd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTINC0   0x000fee       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTINC1   0x000fe6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTINC2   0x000fde       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      PR2   0x000fcb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  PREINC0   0x000fec       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  PREINC1   0x000fe4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  PREINC2   0x000fdc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PROD   0x000ff3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PRODH   0x000ff4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PRODL   0x000ff3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     RCON   0x000fd0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 RCONbits   0x000fd0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    RCREG   0x000fae       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    RCSTA   0x000fab       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                RCSTAbits   0x000fab       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+       ReceivedDataBuffer   0x000500       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+             RemoteWakeup   0x0000aa       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                     SIGN   0x000000       data     extern C:\MCC18\src\traditional\math\cmath18.asm
+                    SPBRG   0x000faf       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SPBRGH   0x000fb0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SPPCFG   0x000f63       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               SPPCFGbits   0x000f63       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SPPCON   0x000f65       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               SPPCONbits   0x000f65       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  SPPDATA   0x000f62       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SPPEPS   0x000f64       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               SPPEPSbits   0x000f64       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SSPADD   0x000fc8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SSPBUF   0x000fc9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  SSPCON1   0x000fc6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              SSPCON1bits   0x000fc6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  SSPCON2   0x000fc5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              SSPCON2bits   0x000fc5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  SSPSTAT   0x000fc7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              SSPSTATbits   0x000fc7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   STATUS   0x000fd8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               STATUSbits   0x000fd8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   STKPTR   0x000ffc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               STKPTRbits   0x000ffc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 SetupPkt   0x000420       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                    T0CON   0x000fd5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                T0CONbits   0x000fd5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    T1CON   0x000fcd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                T1CONbits   0x000fcd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    T2CON   0x000fca       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                T2CONbits   0x000fca       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    T3CON   0x000fb1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                T3CONbits   0x000fb1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   TABLAT   0x000ff5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   TBLPTR   0x000ff6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  TBLPTRH   0x000ff7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  TBLPTRL   0x000ff6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  TBLPTRU   0x000ff8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR0H   0x000fd7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR0L   0x000fd6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR1H   0x000fcf       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR1L   0x000fce       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     TMR2   0x000fcc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR3H   0x000fb3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR3L   0x000fb2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      TOS   0x000ffd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     TOSH   0x000ffe       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     TOSL   0x000ffd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     TOSU   0x000fff       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISA   0x000f92       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISAbits   0x000f92       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISB   0x000f93       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISBbits   0x000f93       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISC   0x000f94       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISCbits   0x000f94       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISD   0x000f95       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISDbits   0x000f95       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISE   0x000f96       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISEbits   0x000f96       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TXREG   0x000fad       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TXSTA   0x000fac       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TXSTAbits   0x000fac       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+         ToSendDataBuffer   0x000540       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                    UADDR   0x000f6e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UADDRbits   0x000f6e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UCFG   0x000f6f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UCFGbits   0x000f6f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UCON   0x000f6d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UCONbits   0x000f6d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEIE   0x000f6b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEIEbits   0x000f6b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEIR   0x000f6a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEIRbits   0x000f6a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP0   0x000f70       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP0bits   0x000f70       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP1   0x000f71       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP10   0x000f7a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP10bits   0x000f7a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP11   0x000f7b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP11bits   0x000f7b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP12   0x000f7c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP12bits   0x000f7c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP13   0x000f7d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP13bits   0x000f7d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP14   0x000f7e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP14bits   0x000f7e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP15   0x000f7f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP15bits   0x000f7f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP1bits   0x000f71       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP2   0x000f72       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP2bits   0x000f72       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP3   0x000f73       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP3bits   0x000f73       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP4   0x000f74       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP4bits   0x000f74       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP5   0x000f75       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP5bits   0x000f75       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP6   0x000f76       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP6bits   0x000f76       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP7   0x000f77       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP7bits   0x000f77       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP8   0x000f78       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP8bits   0x000f78       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP9   0x000f79       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP9bits   0x000f79       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UFRM   0x000f66       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UFRMH   0x000f67       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UFRMHbits   0x000f67       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UFRML   0x000f66       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UFRMLbits   0x000f66       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      UIE   0x000f69       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  UIEbits   0x000f69       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      UIR   0x000f68       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  UIRbits   0x000f68       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+             USART_Status   0x0000d4       data     extern C:\MCC18\src\pmc_common\USART\udefs.c
+   USBActiveConfiguration   0x00008c       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+    USBAlternateInterface   0x00008d       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+           USBDeviceState   0x00008b       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                USBInData   0x0000ae       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+              USBInHandle   0x0000c0       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       USBInMaxPacketSize   0x0000ac       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+             USBOutHandle   0x0000be       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                    USTAT   0x000f6c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                USTATbits   0x000f6c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                USTATcopy   0x0000ab       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   WDTCON   0x000fd1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               WDTCONbits   0x000fd1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     WREG   0x000fe8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 __AARGB0   0x000009       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB1   0x000008       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB2   0x000007       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB3   0x000006       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB4   0x000005       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB5   0x000004       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB6   0x000003       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB7   0x000002       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                   __AEXP   0x00000a       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __BARGB0   0x00000e       data     extern C:\MCC18\src\traditional\math\barg.asm
+                 __BARGB1   0x00000d       data     extern C:\MCC18\src\traditional\math\barg.asm
+                 __BARGB2   0x00000c       data     extern C:\MCC18\src\traditional\math\barg.asm
+                 __BARGB3   0x00000b       data     extern C:\MCC18\src\traditional\math\barg.asm
+                   __BEXP   0x00000f       data     extern C:\MCC18\src\traditional\math\barg.asm
+                __FPFLAGS   0x000001       data     extern C:\MCC18\src\traditional\math\cmath18.asm
+            __FPFLAGSbits   0x000001       data     extern C:\MCC18\src\traditional\math\cmath18.asm
+                  __REMB0   0x000005       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                  __REMB1   0x000004       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                  __REMB2   0x000003       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                  __REMB3   0x000002       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                   __TEMP   0x000013       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                 __TEMPB0   0x000013       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                 __TEMPB1   0x000012       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                 __TEMPB2   0x000011       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                 __TEMPB3   0x000010       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\i2c\i2c_eebw.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\Timers\t1read.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\PWM\pw2setdc.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\PWM\pw1setdc.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\Timers\t0read.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\i2c\i2c_eerr.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\i2c\i2c_writ.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\traditional\stdclib\printf.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\traditional\stdclib\putc.c
+                  __tmp_0   0x000014       data     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __tmp_0   0x000014       data     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+          active_protocol   0x0000d0       data     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+         blinkStatusValid   0x0000c2       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                 bus_type   0x0000b1       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+     controlTransferState   0x00009b       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                    count   0x000087       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                curr_byte   0x0000c8       data     static C:\MCC18\src\traditional\startup\c018i.c
+               curr_entry   0x0000ca       data     static C:\MCC18\src\traditional\startup\c018i.c
+                 data_ptr   0x0000cc       data     static C:\MCC18\src\traditional\startup\c018i.c
+              delay_count   0x000089       data     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     duty   0x0000b4       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  dutyMax   0x0000b8       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+             emulate_mode   0x000062       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                      err   0x000083       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     err1   0x00007b       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+            hid_report_in   0x000433       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+           hid_report_out   0x000430       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+           hid_rpt_rx_len   0x0000d1       data     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+                        i   0x000079       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                idle_rate   0x0000cf       data     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+                  inPipes   0x00009c       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                     inch   0x000078       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                 inputstr   0x000064       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                led_count   0x0000c3       data     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+          movement_length   0x000063       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  old_sw2   0x000060       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  old_sw3   0x000061       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                 outPipes   0x0000a1       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+   pBDTEntryEP0OutCurrent   0x00008e       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      pBDTEntryEP0OutNext   0x000090       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+              pBDTEntryIn   0x000096       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+             pBDTEntryOut   0x000092       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                     pDst   0x0000a8       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   period   0x0000ba       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     prom   0x0000c5       data     static C:\MCC18\src\traditional\startup\c018i.c
+                     ref1   0x00007f       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     ref2   0x000081       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+        shortPacketStatus   0x00009a       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   stdout   0x0000d2       data     extern C:\MCC18\src\traditional\stdclib\stdout.c
+                tolerance   0x0000bc       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+            usb_con_delay   0x0000b2       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   vector   0x0000b0       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   _entry   0x000000    program     extern C:\MCC18\src\traditional\startup\c018i.c
+       ___return_lbl00000   0x000004    program     static                          
+                 High_ISR   0x000008    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       ___return_lbl00006   0x00000c    program     static                          
+                  Low_ISR   0x000018    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       ___return_lbl00007   0x00001c    program     static                          
+                   _reset   0x001000    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       ___return_lbl00003   0x001004    program     static                          
+        Remapped_High_ISR   0x001008    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       ___return_lbl00004   0x00100c    program     static                          
+         Remapped_Low_ISR   0x001018    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       ___return_lbl00005   0x00101c    program     static                          
+            s_put_n_chars   0x001044    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                 vfprintf   0x001070    program     extern C:\MCC18\src\traditional\stdclib\vfprintf.c
+              __tmplbl_85   0x00109a    program     static                          
+              __tmplbl_44   0x001948    program     static                          
+              __tmplbl_43   0x001962    program     static                          
+                   __pa_0   0x001984    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_1   0x00198c    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_2   0x001996    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_3   0x0019a0    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_4   0x0019b8    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_5   0x0019cc    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_6   0x0019e8    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_7   0x0019f2    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_8   0x0019fe    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                   __pa_9   0x001a20    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_10   0x001a40    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_11   0x001a4e    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_12   0x001a64    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_13   0x001a7e    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_14   0x001a96    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_15   0x001aa6    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_16   0x001abc    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_17   0x001ace    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_18   0x001ae0    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_19   0x001aea    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_20   0x001afa    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_21   0x001b0a    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+              __tmplbl_42   0x001b1a    program     static                          
+                  __pa_22   0x001b1a    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_23   0x001b26    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_24   0x001b34    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_25   0x001b3c    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_26   0x001b46    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_27   0x001b50    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_28   0x001b58    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_29   0x001b66    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_30   0x001b82    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_31   0x001b9c    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_32   0x001bb6    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_33   0x001bce    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_34   0x001bd8    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_35   0x001be6    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_36   0x001bee    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_37   0x001bf8    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_38   0x001c08    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_39   0x001c16    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_40   0x001c22    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_41   0x001c2e    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_42   0x001c36    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_43   0x001c40    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_44   0x001c46    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_45   0x001c50    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __pa_46   0x001c5c    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+            USBDeviceInit   0x001c66    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+           USBDeviceTasks   0x001cd4    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+          USBStallHandler   0x001db6    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+               USBSuspend   0x001dd8    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+       USBWakeFromSuspend   0x001de4    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+         USBCtrlEPService   0x001df8    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+   USBCtrlTrfSetupHandler   0x001e3e    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+     USBCtrlTrfOutHandler   0x001e60    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBCtrlTrfInHandler   0x001e70    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+USBPrepareForNextSetupTrf   0x001ec8    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+       USBCheckStdRequest   0x001f78    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+  USBStdFeatureReqHandler   0x00201c    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBStdGetDscHandler   0x0020dc    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+   USBStdGetStatusHandler   0x002152    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+ USBCtrlEPServiceComplete   0x0021ce    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBCtrlTrfTxService   0x00223e    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBCtrlTrfRxService   0x0022e2    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      USBStdSetCfgHandler   0x002394    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+     USBConfigureEndpoint   0x0023c6    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+        USBEnableEndpoint   0x00243c    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+         USBStallEndpoint   0x00247e    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+     USBTransferOnePacket   0x0024a4    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+    USBClearInterruptFlag   0x00250a    program     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_0   0x002534    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_1   0x002542    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_2   0x002556    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_3   0x002560    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_4   0x00256a    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_5   0x002572    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_6   0x002576    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_7   0x002584    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_8   0x002590    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   __pa_9   0x00259a    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_10   0x0025aa    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_11   0x0025be    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_12   0x0025d0    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_13   0x0025ec    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_14   0x0025f6    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+              __tmplbl_31   0x0025fc    program     static                          
+                  __pa_15   0x0025fc    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+              __tmplbl_25   0x0025fc    program     static                          
+                  __pa_16   0x002600    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_17   0x00260c    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_18   0x002618    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_19   0x002628    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_20   0x002638    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_21   0x002648    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_22   0x002656    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_23   0x002664    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_24   0x002672    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_25   0x00267c    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_26   0x002698    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_27   0x0026a4    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_28   0x0026b0    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_29   0x0026ba    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_30   0x0026c2    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_31   0x0026cc    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_32   0x0026d6    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_33   0x0026e4    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_34   0x0026f4    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_35   0x0026fa    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_36   0x002702    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  __pa_37   0x002718    program     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+           DelayTXBitUART   0x002722    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       ___return_lbl00000   0x00273c    program     static                          
+           DelayRXBitUART   0x00273e    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       ___return_lbl00001   0x002754    program     static                          
+       DelayRXHalfBitUART   0x002756    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       ___return_lbl00002   0x002762    program     static                          
+  YourHighPriorityISRCode   0x002764    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+   YourLowPriorityISRCode   0x00276a    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     main   0x002784    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+         InitializeSystem   0x0027f0    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+          InitializeUSART   0x0027fc    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                 UserInit   0x00281e    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                ProcessIO   0x002868    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+         Switch2IsPressed   0x002d1e    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+         Switch3IsPressed   0x002d3c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  ReadPOT   0x002d5a    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+           BlinkUSBStatus   0x002d8c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+             USBCBSuspend   0x002e0a    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+     USBCBWakeFromSuspend   0x002e0c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+        USBCB_SOF_Handler   0x002e0e    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+        USBCBErrorHandler   0x002e10    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       USBCBCheckOtherReq   0x002e12    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+    USBCBStdSetDscHandler   0x002e16    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              USBCBInitEP   0x002e18    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+          USBCBSendResume   0x002e2c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_0   0x002e48    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_1   0x002e56    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_2   0x002e7c    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_3   0x002e98    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_4   0x002eb4    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_5   0x002ec8    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_6   0x002ed4    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_7   0x002eea    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_8   0x002efe    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   __pa_9   0x002f12    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_10   0x002f26    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_11   0x002f36    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_12   0x002f46    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_13   0x002f56    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_14   0x002f66    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_15   0x002f74    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_16   0x002f82    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_17   0x002f8e    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_18   0x002f9a    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_19   0x002fa8    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_20   0x002fb0    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_21   0x002fba    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __pa_22   0x002fc2    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+       USBCheckHIDRequest   0x002fd2    program     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+      HIDGetReportHandler   0x0030a8    program     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+      HIDSetReportHandler   0x0030aa    program     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+             EERandomRead   0x0030ac    program     extern C:\MCC18\src\pmc_common\i2c\i2c_eerr.c
+                   __pa_0   0x00314c    program     static C:\MCC18\src\pmc_common\i2c\i2c_eerr.c
+                _do_cinit   0x00315a    program     extern C:\MCC18\src\traditional\startup\c018i.c
+                     test   0x003174    program     static                          
+                copy_loop   0x0031cc    program     static                          
+            copy_one_byte   0x0031d2    program     static                          
+             done_copying   0x0031e0    program     static                          
+       ___return_lbl00002   0x0031f6    program     static                          
+                     done   0x0031f6    program     static                          
+                   memset   0x0031f8    program     extern C:\MCC18\src\traditional\stdclib\memset.asm
+                    jLoop   0x00320c    program     static C:\MCC18\src\traditional\stdclib\memset.asm
+              _2jContinue   0x003218    program     static C:\MCC18\src\traditional\stdclib\memset.asm
+                   _3jEnd   0x003222    program     static C:\MCC18\src\traditional\stdclib\memset.asm
+                     jEnd   0x00322a    program     static C:\MCC18\src\traditional\stdclib\memset.asm
+                   strlen   0x00322c    program     extern C:\MCC18\src\traditional\stdclib\strlen.asm
+                    jLoop   0x00323c    program     static C:\MCC18\src\traditional\stdclib\strlen.asm
+                     jEnd   0x003246    program     static C:\MCC18\src\traditional\stdclib\strlen.asm
+                strlenpgm   0x003248    program     extern C:\MCC18\src\traditional\stdclib\slenpgm.asm
+                    jLoop   0x003266    program     static C:\MCC18\src\traditional\stdclib\slenpgm.asm
+                   _2jEnd   0x00327c    program     static C:\MCC18\src\traditional\stdclib\slenpgm.asm
+                     jEnd   0x00327e    program     static C:\MCC18\src\traditional\stdclib\slenpgm.asm
+                   printf   0x003292    program     extern C:\MCC18\src\traditional\stdclib\printf.c
+               device_dsc   0x00332a    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+        configDescriptor1   0x00333c    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                    sd000   0x003365    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                    sd001   0x003369    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                    sd002   0x003387    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                hid_rpt01   0x003395    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+               USB_CD_Ptr   0x0033b2    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+               USB_SD_Ptr   0x0033b4    program     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\usb_descriptors.c
+                     putc   0x0033ba    program     extern C:\MCC18\src\traditional\stdclib\putc.c
+              EEByteWrite   0x00343e    program     extern C:\MCC18\src\pmc_common\i2c\i2c_eebw.c
+                   __pa_0   0x0034a8    program     static C:\MCC18\src\pmc_common\i2c\i2c_eebw.c
+                  FXM3232   0x0034b6    program     extern C:\MCC18\src\traditional\math\fxm3232.c
+       ___return_lbl00000   0x003524    program     static                          
+               putrsUSART   0x003526    program     extern C:\MCC18\src\pmc_common\USART\uputrs.c
+                SetDCPWM2   0x00358a    program     extern C:\MCC18\src\pmc_common\PWM\pw2setdc.c
+                SetDCPWM1   0x0035e8    program     extern C:\MCC18\src\pmc_common\PWM\pw1setdc.c
+                 FXM1616S   0x003646    program     extern C:\MCC18\src\traditional\math\fxm1616s.asm
+               TSIGN1616A   0x003692    program     static C:\MCC18\src\traditional\math\fxm1616s.asm
+                 OpenPWM2   0x0036a0    program     extern C:\MCC18\src\pmc_common\PWM\pw2open.c
+                 WriteI2C   0x0036f8    program     extern C:\MCC18\src\pmc_common\i2c\i2c_writ.c
+                 FXD3232U   0x003742    program     extern C:\MCC18\src\traditional\math\fxd3232u.c
+                     loop   0x003750    program     static                          
+                   _false   0x003784    program     static                          
+       ___return_lbl00000   0x003788    program     static                          
+                ReadUSART   0x00378a    program     extern C:\MCC18\src\pmc_common\USART\uread.c
+               ReadTimer1   0x0037c8    program     extern C:\MCC18\src\pmc_common\Timers\t1read.c
+               ReadTimer0   0x003806    program     extern C:\MCC18\src\pmc_common\Timers\t0read.c
+              WriteTimer1   0x003844    program     extern C:\MCC18\src\pmc_common\Timers\t1write.c
+              WriteTimer0   0x00387c    program     extern C:\MCC18\src\pmc_common\Timers\t0write.c
+                  OpenI2C   0x0038b4    program     extern C:\MCC18\src\pmc_common\i2c\i2c_open.c
+                 OpenPWM1   0x0038ea    program     extern C:\MCC18\src\pmc_common\PWM\pw1open.c
+         OpenPWM1ConfigIO   0x003916    program     extern C:\MCC18\src\pmc_common\PWM\pw1open.c
+               WriteUSART   0x00391a    program     extern C:\MCC18\src\pmc_common\USART\uwrite.c
+                  isdigit   0x003948    program     extern C:\MCC18\src\traditional\stdclib\isdigit.asm
+                   jMatch   0x003968    program     static C:\MCC18\src\traditional\stdclib\isdigit.asm
+                 jNoMatch   0x00396a    program     static C:\MCC18\src\traditional\stdclib\isdigit.asm
+                 _startup   0x00396c    program     extern C:\MCC18\src\traditional\startup\c018i.c
+                     loop   0x00397c    program     static                          
+       ___return_lbl00001   0x003986    program     static                          
+              _usart_putc   0x003988    program     extern C:\MCC18\src\pmc_common\USART\_usartpc.asm
+                     loop   0x003998    program     static C:\MCC18\src\pmc_common\USART\_usartpc.asm
+              Delay10TCYx   0x0039a4    program     extern C:\MCC18\src\traditional\delays\d10tcyx.asm
+                     D10x   0x0039ac    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000A   0x0039ae    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000C   0x0039b0    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000E   0x0039b2    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+                    D10_1   0x0039b4    program     static C:\MCC18\src\traditional\delays\d10tcyx.asm
+                 s_digits   0x0039ba    program     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+            __zero_memory   0x0039cc    program     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               clear_loop   0x0039d2    program     static C:\MCC18\src\traditional\proc\p18F4550.asm
+               __string_0   0x0039da    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                ClosePWM1   0x0039e6    program     extern C:\MCC18\src\pmc_common\PWM\pw1close.c
+                ClosePWM2   0x0039ec    program     extern C:\MCC18\src\pmc_common\PWM\pw2close.c
+               _user_putc   0x0039f0    program     extern C:\MCC18\src\traditional\stdclib\_user_putc.c
+                   __init   0x0039f2    program     extern C:\MCC18\src\traditional\stdclib\__init.c
+               __config_0   0x300000    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_1   0x300001    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_2   0x300002    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_3   0x300003    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_4   0x300005    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_5   0x300006    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_6   0x300008    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_7   0x300009    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_8   0x30000a    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+               __config_9   0x30000b    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              __config_10   0x30000c    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              __config_11   0x30000d    program     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     SIGN   0x000000       data     extern C:\MCC18\src\traditional\math\cmath18.asm
+            __FPFLAGSbits   0x000001       data     extern C:\MCC18\src\traditional\math\cmath18.asm
+                __FPFLAGS   0x000001       data     extern C:\MCC18\src\traditional\math\cmath18.asm
+                  __REMB3   0x000002       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB7   0x000002       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                  __REMB2   0x000003       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB6   0x000003       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                  __REMB1   0x000004       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB5   0x000004       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                  __REMB0   0x000005       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB4   0x000005       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB3   0x000006       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB2   0x000007       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB1   0x000008       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __AARGB0   0x000009       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                   __AEXP   0x00000a       data     extern C:\MCC18\src\traditional\math\aarg.asm
+                 __BARGB3   0x00000b       data     extern C:\MCC18\src\traditional\math\barg.asm
+                 __BARGB2   0x00000c       data     extern C:\MCC18\src\traditional\math\barg.asm
+                 __BARGB1   0x00000d       data     extern C:\MCC18\src\traditional\math\barg.asm
+                 __BARGB0   0x00000e       data     extern C:\MCC18\src\traditional\math\barg.asm
+                   __BEXP   0x00000f       data     extern C:\MCC18\src\traditional\math\barg.asm
+                 __TEMPB3   0x000010       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                 __TEMPB2   0x000011       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                 __TEMPB1   0x000012       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                   __TEMP   0x000013       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                 __TEMPB0   0x000013       data     extern C:\MCC18\src\traditional\math\temparg.asm
+                  __tmp_0   0x000014       data     static C:\MCC18\src\traditional\stdclib\vfprintf.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\Timers\t1read.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\PWM\pw2setdc.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\PWM\pw1setdc.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\Timers\t0read.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\i2c\i2c_eerr.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\i2c\i2c_writ.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\traditional\stdclib\printf.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\pmc_common\i2c\i2c_eebw.c
+                  __tmp_0   0x000014       data     static C:\MCC18\src\traditional\stdclib\putc.c
+                  __tmp_0   0x000014       data     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  __tmp_0   0x000014       data     static C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  old_sw2   0x000060       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  old_sw3   0x000061       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+             emulate_mode   0x000062       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+          movement_length   0x000063       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                 inputstr   0x000064       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     inch   0x000078       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                        i   0x000079       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     err1   0x00007b       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     ref1   0x00007f       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     ref2   0x000081       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                      err   0x000083       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                    count   0x000087       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              delay_count   0x000089       data     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+           USBDeviceState   0x00008b       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+   USBActiveConfiguration   0x00008c       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+    USBAlternateInterface   0x00008d       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+   pBDTEntryEP0OutCurrent   0x00008e       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+      pBDTEntryEP0OutNext   0x000090       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+             pBDTEntryOut   0x000092       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+              pBDTEntryIn   0x000096       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+        shortPacketStatus   0x00009a       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+     controlTransferState   0x00009b       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                  inPipes   0x00009c       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                 outPipes   0x0000a1       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                     pDst   0x0000a8       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+             RemoteWakeup   0x0000aa       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                USTATcopy   0x0000ab       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+       USBInMaxPacketSize   0x0000ac       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                USBInData   0x0000ae       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                   vector   0x0000b0       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                 bus_type   0x0000b1       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+            usb_con_delay   0x0000b2       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     duty   0x0000b4       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  dutyMax   0x0000b8       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                   period   0x0000ba       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                tolerance   0x0000bc       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+             USBOutHandle   0x0000be       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+              USBInHandle   0x0000c0       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+         blinkStatusValid   0x0000c2       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                led_count   0x0000c3       data     static C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                     prom   0x0000c5       data     static C:\MCC18\src\traditional\startup\c018i.c
+                curr_byte   0x0000c8       data     static C:\MCC18\src\traditional\startup\c018i.c
+               curr_entry   0x0000ca       data     static C:\MCC18\src\traditional\startup\c018i.c
+                 data_ptr   0x0000cc       data     static C:\MCC18\src\traditional\startup\c018i.c
+                idle_rate   0x0000cf       data     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+          active_protocol   0x0000d0       data     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+           hid_rpt_rx_len   0x0000d1       data     extern C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c
+                   stdout   0x0000d2       data     extern C:\MCC18\src\traditional\stdclib\stdout.c
+             USART_Status   0x0000d4       data     extern C:\MCC18\src\pmc_common\USART\udefs.c
+                      BDT   0x000400       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+                 SetupPkt   0x000420       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+              CtrlTrfData   0x000428       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+           hid_report_out   0x000430       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+            hid_report_in   0x000433       data     extern C:\Microchip Solutions\Microchip\Usb\usb_device.c
+       ReceivedDataBuffer   0x000500       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+         ToSendDataBuffer   0x000540       data     extern C:\Documents and Settings\Administrator\Desktop\johnnyFirmware\main.c
+                  SPPDATA   0x000f62       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SPPCFG   0x000f63       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               SPPCFGbits   0x000f63       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               SPPEPSbits   0x000f64       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SPPEPS   0x000f64       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               SPPCONbits   0x000f65       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SPPCON   0x000f65       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UFRMLbits   0x000f66       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UFRML   0x000f66       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UFRM   0x000f66       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UFRMHbits   0x000f67       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UFRMH   0x000f67       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      UIR   0x000f68       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  UIRbits   0x000f68       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  UIEbits   0x000f69       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      UIE   0x000f69       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEIR   0x000f6a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEIRbits   0x000f6a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEIE   0x000f6b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEIEbits   0x000f6b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                USTATbits   0x000f6c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    USTAT   0x000f6c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UCON   0x000f6d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UCONbits   0x000f6d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UADDRbits   0x000f6e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UADDR   0x000f6e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UCFG   0x000f6f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UCFGbits   0x000f6f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP0bits   0x000f70       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP0   0x000f70       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP1   0x000f71       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP1bits   0x000f71       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP2bits   0x000f72       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP2   0x000f72       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP3   0x000f73       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP3bits   0x000f73       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP4bits   0x000f74       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP4   0x000f74       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP5   0x000f75       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP5bits   0x000f75       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP6   0x000f76       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP6bits   0x000f76       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP7   0x000f77       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP7bits   0x000f77       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP8   0x000f78       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP8bits   0x000f78       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     UEP9   0x000f79       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 UEP9bits   0x000f79       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP10   0x000f7a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP10bits   0x000f7a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP11   0x000f7b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP11bits   0x000f7b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP12   0x000f7c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP12bits   0x000f7c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP13   0x000f7d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP13bits   0x000f7d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP14   0x000f7e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP14bits   0x000f7e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                UEP15bits   0x000f7f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    UEP15   0x000f7f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTAbits   0x000f80       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTA   0x000f80       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTBbits   0x000f81       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTB   0x000f81       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTCbits   0x000f82       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTC   0x000f82       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTDbits   0x000f83       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTD   0x000f83       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                PORTEbits   0x000f84       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PORTE   0x000f84       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATA   0x000f89       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATAbits   0x000f89       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATB   0x000f8a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATBbits   0x000f8a       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATC   0x000f8b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATCbits   0x000f8b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATD   0x000f8c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATDbits   0x000f8c       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 LATEbits   0x000f8d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     LATE   0x000f8d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDRAbits   0x000f92       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     DDRA   0x000f92       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISAbits   0x000f92       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISA   0x000f92       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDRBbits   0x000f93       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     DDRB   0x000f93       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISBbits   0x000f93       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISB   0x000f93       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     DDRC   0x000f94       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDRCbits   0x000f94       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISC   0x000f94       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISCbits   0x000f94       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     DDRD   0x000f95       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDRDbits   0x000f95       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISD   0x000f95       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISDbits   0x000f95       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     DDRE   0x000f96       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 DDREbits   0x000f96       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TRISE   0x000f96       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TRISEbits   0x000f96       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              OSCTUNEbits   0x000f9b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  OSCTUNE   0x000f9b       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PIE1   0x000f9d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 PIE1bits   0x000f9d       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 PIR1bits   0x000f9e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PIR1   0x000f9e       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 IPR1bits   0x000f9f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     IPR1   0x000f9f       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 PIE2bits   0x000fa0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PIE2   0x000fa0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PIR2   0x000fa1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 PIR2bits   0x000fa1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 IPR2bits   0x000fa2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     IPR2   0x000fa2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               EECON1bits   0x000fa6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   EECON1   0x000fa6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   EECON2   0x000fa7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   EEDATA   0x000fa8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    EEADR   0x000fa9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    RCSTA   0x000fab       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                RCSTAbits   0x000fab       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TXSTA   0x000fac       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                TXSTAbits   0x000fac       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TXREG   0x000fad       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    RCREG   0x000fae       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    SPBRG   0x000faf       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SPBRGH   0x000fb0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    T3CON   0x000fb1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                T3CONbits   0x000fb1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR3L   0x000fb2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR3H   0x000fb3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                CMCONbits   0x000fb4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    CMCON   0x000fb4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CVRCON   0x000fb5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               CVRCONbits   0x000fb5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               CCP1ASbits   0x000fb6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              ECCP1ASbits   0x000fb6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCP1AS   0x000fb6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  ECCP1AS   0x000fb6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  CCP1DEL   0x000fb7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              CCP1DELbits   0x000fb7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 ECCP1DEL   0x000fb7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+             ECCP1DELbits   0x000fb7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  BAUDCON   0x000fb8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              BAUDCONbits   0x000fb8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              CCP2CONbits   0x000fba       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  CCP2CON   0x000fba       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    CCPR2   0x000fbb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCPR2L   0x000fbb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCPR2H   0x000fbc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 ECCP1CON   0x000fbd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+             ECCP1CONbits   0x000fbd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              CCP1CONbits   0x000fbd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  CCP1CON   0x000fbd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    CCPR1   0x000fbe       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCPR1L   0x000fbe       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   CCPR1H   0x000fbf       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               ADCON2bits   0x000fc0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   ADCON2   0x000fc0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               ADCON1bits   0x000fc1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   ADCON1   0x000fc1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   ADCON0   0x000fc2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               ADCON0bits   0x000fc2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    ADRES   0x000fc3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   ADRESL   0x000fc3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   ADRESH   0x000fc4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  SSPCON2   0x000fc5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              SSPCON2bits   0x000fc5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  SSPCON1   0x000fc6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              SSPCON1bits   0x000fc6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  SSPSTAT   0x000fc7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              SSPSTATbits   0x000fc7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SSPADD   0x000fc8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   SSPBUF   0x000fc9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    T2CON   0x000fca       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                T2CONbits   0x000fca       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      PR2   0x000fcb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     TMR2   0x000fcc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                T1CONbits   0x000fcd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    T1CON   0x000fcd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR1L   0x000fce       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR1H   0x000fcf       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     RCON   0x000fd0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 RCONbits   0x000fd0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   WDTCON   0x000fd1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               WDTCONbits   0x000fd1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  HLVDCON   0x000fd2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              HLVDCONbits   0x000fd2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   LVDCON   0x000fd2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               LVDCONbits   0x000fd2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   OSCCON   0x000fd3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               OSCCONbits   0x000fd3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                T0CONbits   0x000fd5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    T0CON   0x000fd5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR0L   0x000fd6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    TMR0H   0x000fd7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   STATUS   0x000fd8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               STATUSbits   0x000fd8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR2L   0x000fd9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     FSR2   0x000fd9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR2H   0x000fda       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PLUSW2   0x000fdb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  PREINC2   0x000fdc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTDEC2   0x000fdd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTINC2   0x000fde       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    INDF2   0x000fdf       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      BSR   0x000fe0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     FSR1   0x000fe1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR1L   0x000fe1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR1H   0x000fe2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PLUSW1   0x000fe3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  PREINC1   0x000fe4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTDEC1   0x000fe5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTINC1   0x000fe6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    INDF1   0x000fe7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     WREG   0x000fe8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     FSR0   0x000fe9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR0L   0x000fe9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    FSR0H   0x000fea       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PLUSW0   0x000feb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  PREINC0   0x000fec       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTDEC0   0x000fed       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                 POSTINC0   0x000fee       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    INDF0   0x000fef       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              INTCON3bits   0x000ff0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  INTCON3   0x000ff0       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+              INTCON2bits   0x000ff1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  INTCON2   0x000ff1       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               INTCONbits   0x000ff2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   INTCON   0x000ff2       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PRODL   0x000ff3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     PROD   0x000ff3       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                    PRODH   0x000ff4       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   TABLAT   0x000ff5       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  TBLPTRL   0x000ff6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   TBLPTR   0x000ff6       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  TBLPTRH   0x000ff7       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                  TBLPTRU   0x000ff8       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                       PC   0x000ff9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      PCL   0x000ff9       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PCLATH   0x000ffa       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   PCLATU   0x000ffb       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                   STKPTR   0x000ffc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+               STKPTRbits   0x000ffc       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                      TOS   0x000ffd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     TOSL   0x000ffd       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     TOSH   0x000ffe       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+                     TOSU   0x000fff       data     extern C:\MCC18\src\traditional\proc\p18F4550.asm
+
+

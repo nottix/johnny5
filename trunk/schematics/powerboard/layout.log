@@ -1,0 +1,1639 @@
+Fri Jan 30 18:53:17 UserDiv from Layout.INI for AutoECO: 60
+Fri Jan 30 18:53:17 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Fri Jan 30 18:53:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 18:53:18 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+Fri Jan 30 18:53:18 Saved as file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+Fri Jan 30 18:54:11 UserDiv from Layout.INI for AutoECO: 60
+Fri Jan 30 18:54:11 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6035.TCH
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Fri Jan 30 18:54:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 18:54:11 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6035.TCH
+Fri Jan 30 18:54:11 Saved as file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6035.TCH
+Fri Jan 30 18:55:09 UserDiv from Layout.INI for AutoECO: 60
+Fri Jan 30 18:55:09 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 18:55:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 18:55:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 18:55:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:55:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:55:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 18:55:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 18:55:41 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:55:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:55:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:55:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:56:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:56:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 18:56:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:56:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Fri Jan 30 18:56:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 18:57:14 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:15 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:20 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 18:57:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:23 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:23 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:23 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:24 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:24 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:25 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:25 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:25 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:25 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:26 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:26 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:26 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:27 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:27 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:27 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:27 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:27 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 18:57:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:04:34 UserDiv from Layout.INI for AutoECO: 60
+Fri Jan 30 19:04:34 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6035.TCH
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 19:04:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 19:04:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:04:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:04:41 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 19:04:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:04:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:04:49 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:04:50 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 19:05:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 19:05:05 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6035.TCH
+Fri Jan 30 19:05:05 Saved as file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6035.TCH
+Fri Jan 30 19:05:54 UserDiv from Layout.INI for AutoECO: 60
+Fri Jan 30 19:05:54 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 19:05:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 19:06:07 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:06:07 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:06:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:06:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 19:07:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 19:07:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 19:07:29 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 19:08:01 Saved as file ~undo.max
+Fri Jan 30 19:08:29 Saved as file ~undo.max
+Fri Jan 30 19:08:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:08:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:08:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:08:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:08:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 19:08:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:08:58 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:09:02 Saved as file ~undo.max
+Fri Jan 30 19:09:12 Saved as file ~undo.max
+Fri Jan 30 19:09:30 Saved as file ~undo.max
+Fri Jan 30 19:10:58 Saved as file ~undo.max
+Fri Jan 30 19:10:59 Saved as file ~undo.max
+Fri Jan 30 19:11:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 19:11:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:23 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:23 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:24 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:41 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:42 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:42 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:11:46 Saved as file ~undo.max
+Fri Jan 30 19:11:55 Saved as file ~undo.max
+Fri Jan 30 19:12:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:18 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Fri Jan 30 19:12:26 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:50 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:12:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:04 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:07 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:17 Saved as file ~undo.max
+Fri Jan 30 19:13:20 Saved as file ~undo.max
+Fri Jan 30 19:13:31 Saved as file ~undo.max
+Fri Jan 30 19:13:37 Saved as file ~undo.max
+Fri Jan 30 19:13:48 Saved as file ~undo.max
+Fri Jan 30 19:13:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:13:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 19:14:02 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 19:14:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:18 Saved as file ~undo.max
+Fri Jan 30 19:14:26 Saved as file ~undo.max
+Fri Jan 30 19:14:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 19:14:50 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:14:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:15:01 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:15:03 Saved as file ~undo.max
+Fri Jan 30 19:15:09 Saved as file ~undo.max
+Fri Jan 30 19:15:22 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 19:15:34 Saved as file ~undo.max
+Fri Jan 30 19:15:41 Saved as file ~undo.max
+Fri Jan 30 19:16:51 Saved as file ~undo.max
+Fri Jan 30 19:17:26 Saved as file ~undo.max
+Fri Jan 30 19:17:42 Saved as file ~undo.max
+Fri Jan 30 19:17:49 Saved as file ~undo.max
+Fri Jan 30 19:17:51 Saved as file ~undo.max
+Fri Jan 30 19:17:52 Saved as file ~undo.max
+Fri Jan 30 19:17:57 Saved as file ~undo.max
+Fri Jan 30 19:18:07 Saved as file ~undo.max
+Fri Jan 30 19:18:11 Saved as file ~undo.max
+Fri Jan 30 19:18:23 Saved as file ~undo.max
+Fri Jan 30 19:18:45 Saved as file ~undo.max
+Fri Jan 30 19:18:47 Saved as file ~undo.max
+Fri Jan 30 19:18:49 Saved as file ~undo.max
+Fri Jan 30 19:18:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:18:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:18:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:18:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 19:19:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Fri Jan 30 19:19:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 19:19:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 19:19:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 19:19:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 19:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 19:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 19:19:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:19:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:14 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 19:19:19 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:19:20 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 19:19:20 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 19:19:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 19:19:23 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:24 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:19:41 Saved as file ~undo.max
+Fri Jan 30 19:19:43 Saved as file ~undo.max
+Fri Jan 30 19:19:46 Saved as file ~undo.max
+Fri Jan 30 19:20:03 Saved as file ~undo.max
+Fri Jan 30 19:20:07 Saved as file ~undo.max
+Fri Jan 30 19:20:08 Saved as file ~undo.max
+Fri Jan 30 19:20:46 Saved as file ~undo.max
+Fri Jan 30 19:21:54 Saved as file ~undo.max
+Fri Jan 30 19:22:11 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 19:22:17 Saved as file ~undo.max
+Fri Jan 30 19:22:22 Saved as file ~undo.max
+Fri Jan 30 19:22:28 Saved as file ~undo.max
+Fri Jan 30 19:22:32 Saved as file ~undo.max
+Fri Jan 30 19:22:42 Saved as file ~undo.max
+Fri Jan 30 19:22:48 Saved as file ~undo.max
+Fri Jan 30 19:22:53 Saved as file ~undo.max
+Fri Jan 30 19:22:58 Saved as file ~undo.max
+Fri Jan 30 19:23:09 Saved as file ~undo.max
+Fri Jan 30 19:23:15 Saved as file ~undo.max
+Fri Jan 30 19:23:16 Saved as file ~undo.max
+Fri Jan 30 19:23:20 Saved as file ~undo.max
+Fri Jan 30 19:23:24 Saved as file ~undo.max
+Fri Jan 30 19:23:30 Saved as file ~undo.max
+Fri Jan 30 19:23:31 Saved as file BACKUP1.MAX
+Fri Jan 30 19:23:56 Saved as file ~undo.max
+Fri Jan 30 19:24:01 Saved as file ~undo.max
+Fri Jan 30 19:24:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:24:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:24:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:24:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:26:26 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:26:26 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:26:26 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:26:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:26:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:26:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:26:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:26:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 19:26:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 19:26:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 19:26:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 19:26:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 19:26:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 19:26:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 19:26:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 19:26:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 19:26:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Jan 30 19:26:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Fri Jan 30 19:26:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Fri Jan 30 19:26:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:26:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Fri Jan 30 19:26:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 19:26:58 Error code 5226.574 (16)
+Fri Jan 30 19:26:58 Saved as file Backup0.max
+Fri Jan 30 19:26:58 Windows which were open at time of error:
+Fri Jan 30 19:26:58 	ActiveWindow: &Design
+Fri Jan 30 19:26:58 	Icon: &Components
+Fri Jan 30 19:26:58 	Icon: &Nets
+Fri Jan 30 19:26:58 	Icon: Post Proces&s
+Fri Jan 30 19:26:58 End-of-list
+Fri Jan 30 19:26:58 Loaded file BACKUP0.MAX
+Fri Jan 30 19:27:01 Saved as file ~undo.max
+Fri Jan 30 19:27:07 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 19:27:07 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 19:27:07 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 19:27:07 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 19:27:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\BGA.llb
+Fri Jan 30 19:27:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\ZIGZAG.llb
+Fri Jan 30 19:27:09 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 19:27:17 Saved as file ~undo.max
+Fri Jan 30 19:27:22 Saved as file ~undo.max
+Fri Jan 30 19:27:47 Saved as file ~undo.max
+Fri Jan 30 19:28:11 Saved as file ~undo.max
+Fri Jan 30 19:28:15 Saved as file ~undo.max
+Fri Jan 30 19:28:37 Saved as file ~undo.max
+Fri Jan 30 19:28:51 Saved as file ~undo.max
+Fri Jan 30 19:28:53 Saved as file ~undo.max
+Fri Jan 30 19:29:00 Saved as file ~undo.max
+Fri Jan 30 19:29:05 Saved as file ~undo.max
+Fri Jan 30 19:29:06 Saved as file ~undo.max
+Fri Jan 30 19:29:13 Saved as file ~undo.max
+Fri Jan 30 19:29:23 Saved as file ~undo.max
+Fri Jan 30 19:29:26 Saved as file ~undo.max
+Fri Jan 30 19:29:31 Saved as file ~undo.max
+Fri Jan 30 19:29:39 Saved as file ~undo.max
+Fri Jan 30 19:29:55 Saved as file ~undo.max
+Fri Jan 30 19:30:13 Saved as file ~undo.max
+Fri Jan 30 19:30:17 Saved as file ~undo.max
+Fri Jan 30 19:30:27 Saved as file ~undo.max
+Fri Jan 30 19:30:35 Saved as file ~undo.max
+Fri Jan 30 19:30:40 Saved as file ~undo.max
+Fri Jan 30 19:30:43 Saved as file ~undo.max
+Fri Jan 30 19:30:47 Saved as file ~undo.max
+Fri Jan 30 19:30:50 Saved as file ~undo.max
+Fri Jan 30 19:30:53 Saved as file ~undo.max
+Fri Jan 30 19:30:55 Saved as file ~undo.max
+Fri Jan 30 19:30:56 Saved as file ~undo.max
+Fri Jan 30 19:31:00 Saved as file ~undo.max
+Fri Jan 30 19:31:02 Saved as file ~undo.max
+Fri Jan 30 19:31:04 Saved as file ~undo.max
+Fri Jan 30 19:31:07 Saved as file ~undo.max
+Fri Jan 30 19:31:14 Saved as file ~undo.max
+Fri Jan 30 19:31:21 Saved as file ~undo.max
+Fri Jan 30 19:31:24 Saved as file ~undo.max
+Fri Jan 30 19:31:27 Saved as file ~undo.max
+Fri Jan 30 19:31:35 Saved as file ~undo.max
+Fri Jan 30 19:31:39 Saved as file ~undo.max
+Fri Jan 30 19:31:41 Saved as file ~undo.max
+Fri Jan 30 19:31:46 Saved as file ~undo.max
+Fri Jan 30 19:31:48 Saved as file ~undo.max
+Fri Jan 30 19:31:55 Saved as file ~undo.max
+Fri Jan 30 19:32:03 Saved as file ~undo.max
+Fri Jan 30 19:32:05 Saved as file ~undo.max
+Fri Jan 30 19:32:12 Saved as file ~undo.max
+Fri Jan 30 19:32:17 Saved as file ~undo.max
+Fri Jan 30 19:32:24 Saved as file ~undo.max
+Fri Jan 30 19:32:29 Saved as file ~undo.max
+Fri Jan 30 19:32:31 Saved as file ~undo.max
+Fri Jan 30 19:32:32 Saved as file ~undo.max
+Fri Jan 30 19:32:35 Saved as file ~undo.max
+Fri Jan 30 19:32:38 Saved as file ~undo.max
+Fri Jan 30 19:32:41 Saved as file ~undo.max
+Fri Jan 30 19:32:42 Saved as file ~undo.max
+Fri Jan 30 19:32:45 Saved as file ~undo.max
+Fri Jan 30 19:32:49 Saved as file ~undo.max
+Fri Jan 30 19:34:07 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:08 Saved as file PLACE1.MAX
+Fri Jan 30 19:34:08 Saved as file PLACE2.MAX
+Fri Jan 30 19:34:10 Saved as file PLACE3.MAX
+Fri Jan 30 19:34:10 Saved as file PLACE4.MAX
+Fri Jan 30 19:34:11 Saved as file PLACE5.MAX
+Fri Jan 30 19:34:11 Batch place completed in 00:00:03
+Fri Jan 30 19:34:33 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:33 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:33 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:33 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:33 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:33 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:33 Routed 1 connections in 0 seconds.
+Fri Jan 30 19:34:33 Total is now 1 out of 56 (1%).
+Fri Jan 30 19:34:33 Saved as file SWEEP1.MAX
+Fri Jan 30 19:34:38 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:38 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:38 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:39 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:39 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:39 Saved as file BACKUP1.MAX
+Fri Jan 30 19:34:39 Routed 46 connections in 5 seconds.
+Fri Jan 30 19:34:39 Total is now 43 out of 56 (76%).
+Fri Jan 30 19:34:39 Saved as file SWEEP2.MAX
+Fri Jan 30 19:34:43 Routed 2 connections in 4 seconds.
+Fri Jan 30 19:34:43 Total is now 45 out of 56 (80%).
+Fri Jan 30 19:34:43 Saved as file SWEEP3.MAX
+Fri Jan 30 19:35:02 Routed 3 connections in 18 seconds.
+Fri Jan 30 19:35:02 Total is now 47 out of 56 (83%).
+Fri Jan 30 19:35:02 Saved as file SWEEP4.MAX
+Fri Jan 30 19:35:22 Routed 1 connections in 20 seconds.
+Fri Jan 30 19:35:22 Total is now 47 out of 56 (83%).
+Fri Jan 30 19:35:22 Saved as file SWEEP5.MAX
+Fri Jan 30 19:35:43 Saved as file ~undo.max
+Fri Jan 30 19:35:49 Saved as file ~undo.max
+Fri Jan 30 19:35:56 Saved as file ~undo.max
+Fri Jan 30 19:36:05 Saved as file ~undo.max
+Fri Jan 30 19:36:07 Saved as file ~undo.max
+Fri Jan 30 19:36:09 Saved as file ~undo.max
+Fri Jan 30 19:36:14 Saved as file ~undo.max
+Fri Jan 30 19:36:16 Saved as file ~undo.max
+Fri Jan 30 19:36:18 Saved as file ~undo.max
+Fri Jan 30 19:36:23 Saved as file ~undo.max
+Fri Jan 30 19:36:25 Saved as file ~undo.max
+Fri Jan 30 19:36:27 Saved as file ~undo.max
+Fri Jan 30 19:36:30 Saved as file ~undo.max
+Fri Jan 30 19:36:37 Saved as file ~undo.max
+Fri Jan 30 19:36:39 Saved as file ~undo.max
+Fri Jan 30 19:36:46 Saved as file ~undo.max
+Fri Jan 30 19:36:48 Saved as file ~undo.max
+Fri Jan 30 19:36:49 Saved as file ~undo.max
+Fri Jan 30 19:36:51 Saved as file ~undo.max
+Fri Jan 30 19:36:55 Saved as file ~undo.max
+Fri Jan 30 19:36:58 Saved as file ~undo.max
+Fri Jan 30 19:37:11 Saved as file ~undo.max
+Fri Jan 30 19:37:13 Saved as file ~undo.max
+Fri Jan 30 19:37:15 Saved as file ~undo.max
+Fri Jan 30 19:37:16 Saved as file ~undo.max
+Fri Jan 30 19:37:21 Saved as file ~undo.max
+Fri Jan 30 19:37:23 Saved as file ~undo.max
+Fri Jan 30 19:37:25 Saved as file ~undo.max
+Fri Jan 30 19:37:28 Saved as file BACKUP1.MAX
+Fri Jan 30 19:37:33 Saved as file ~undo.max
+Fri Jan 30 19:37:36 Saved as file ~undo.max
+Fri Jan 30 19:37:39 Saved as file ~undo.max
+Fri Jan 30 19:37:46 Saved as file ~undo.max
+Fri Jan 30 19:37:52 Saved as file ~undo.max
+Fri Jan 30 19:37:55 Saved as file ~undo.max
+Fri Jan 30 19:37:57 Saved as file ~undo.max
+Fri Jan 30 19:38:00 Saved as file ~undo.max
+Fri Jan 30 19:38:06 Saved as file ~undo.max
+Fri Jan 30 19:38:10 Saved as file ~undo.max
+Fri Jan 30 19:38:14 Saved as file ~undo.max
+Fri Jan 30 19:38:16 Saved as file ~undo.max
+Fri Jan 30 19:38:18 Saved as file ~undo.max
+Fri Jan 30 19:38:21 Saved as file ~undo.max
+Fri Jan 30 19:38:24 Saved as file ~undo.max
+Fri Jan 30 19:38:30 Saved as file ~undo.max
+Fri Jan 30 19:38:33 Saved as file ~undo.max
+Fri Jan 30 19:38:46 Saved as file ~undo.max
+Fri Jan 30 19:38:48 Saved as file ~undo.max
+Fri Jan 30 19:38:50 Saved as file ~undo.max
+Fri Jan 30 19:38:52 Saved as file ~undo.max
+Fri Jan 30 19:38:54 Saved as file ~undo.max
+Fri Jan 30 19:38:57 Saved as file ~undo.max
+Fri Jan 30 19:39:01 Saved as file ~undo.max
+Fri Jan 30 19:39:03 Saved as file ~undo.max
+Fri Jan 30 19:39:05 Saved as file ~undo.max
+Fri Jan 30 19:39:07 Saved as file ~undo.max
+Fri Jan 30 19:39:13 Saved as file ~undo.max
+Fri Jan 30 19:39:18 Saved as file ~undo.max
+Fri Jan 30 19:39:19 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 19:39:23 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:23 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:23 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:23 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:23 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:23 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:23 Routed 5 connections in 0 seconds.
+Fri Jan 30 19:39:23 Total is now 5 out of 56 (8%).
+Fri Jan 30 19:39:23 Saved as file SWEEP1.MAX
+Fri Jan 30 19:39:27 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:27 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:27 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:28 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:28 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:28 Saved as file BACKUP1.MAX
+Fri Jan 30 19:39:28 Routed 56 connections in 4 seconds.
+Fri Jan 30 19:39:28 Total is now 43 out of 56 (76%).
+Fri Jan 30 19:39:28 Saved as file SWEEP2.MAX
+Fri Jan 30 19:39:34 Routed 3 connections in 5 seconds.
+Fri Jan 30 19:39:34 Total is now 46 out of 56 (82%).
+Fri Jan 30 19:39:34 Saved as file SWEEP3.MAX
+Fri Jan 30 19:39:53 Routed 1 connections in 19 seconds.
+Fri Jan 30 19:39:53 Total is now 46 out of 56 (82%).
+Fri Jan 30 19:39:53 Saved as file SWEEP4.MAX
+Fri Jan 30 19:40:15 Routed 3 connections in 21 seconds.
+Fri Jan 30 19:40:15 Total is now 48 out of 56 (85%).
+Fri Jan 30 19:40:15 Saved as file SWEEP5.MAX
+Fri Jan 30 19:41:28 Saved as file ~undo.max
+Fri Jan 30 19:41:29 Saved as file ~undo.max
+Fri Jan 30 19:41:31 Saved as file ~undo.max
+Fri Jan 30 19:41:33 Saved as file ~undo.max
+Fri Jan 30 19:41:34 Saved as file ~undo.max
+Fri Jan 30 19:41:36 Saved as file ~undo.max
+Fri Jan 30 19:41:37 Saved as file ~undo.max
+Fri Jan 30 19:41:39 Saved as file ~undo.max
+Fri Jan 30 19:41:46 Saved as file ~undo.max
+Fri Jan 30 19:41:48 Saved as file ~undo.max
+Fri Jan 30 19:41:58 Saved as file ~undo.max
+Fri Jan 30 19:42:00 Saved as file ~undo.max
+Fri Jan 30 19:42:02 Saved as file ~undo.max
+Fri Jan 30 19:42:04 Saved as file ~undo.max
+Fri Jan 30 19:42:09 Saved as file BACKUP1.MAX
+Fri Jan 30 19:42:09 Saved as file BACKUP1.MAX
+Fri Jan 30 19:42:09 Saved as file BACKUP1.MAX
+Fri Jan 30 19:42:09 Saved as file BACKUP1.MAX
+Fri Jan 30 19:42:09 Routed 5 connections in 0 seconds.
+Fri Jan 30 19:42:09 Total is now 5 out of 56 (8%).
+Fri Jan 30 19:42:09 Saved as file SWEEP1.MAX
+Fri Jan 30 19:42:15 Saved as file BACKUP1.MAX
+Fri Jan 30 19:42:15 Saved as file BACKUP1.MAX
+Fri Jan 30 19:42:19 Saved as file BACKUP1.MAX
+Fri Jan 30 19:42:19 Saved as file BACKUP1.MAX
+Fri Jan 30 19:42:19 Routed 46 connections in 9 seconds.
+Fri Jan 30 19:42:19 Total is now 39 out of 56 (69%).
+Fri Jan 30 19:42:19 Saved as file SWEEP2.MAX
+Fri Jan 30 19:42:36 Routed 3 connections in 16 seconds.
+Fri Jan 30 19:42:36 Total is now 42 out of 56 (75%).
+Fri Jan 30 19:42:36 Saved as file SWEEP3.MAX
+Fri Jan 30 19:43:42 No new connections routed.
+Fri Jan 30 19:43:42 Total is now 42 out of 56 (75%).
+Fri Jan 30 19:43:42 Saved as file SWEEP4.MAX
+Fri Jan 30 19:44:40 No new connections routed.
+Fri Jan 30 19:44:40 Total is now 42 out of 56 (75%).
+Fri Jan 30 19:44:40 Saved as file SWEEP5.MAX
+Fri Jan 30 19:47:18 Saved as file BACKUP1.MAX
+Fri Jan 30 19:47:18 Saved as file BACKUP1.MAX
+Fri Jan 30 19:47:18 Saved as file BACKUP1.MAX
+Fri Jan 30 19:47:18 Routed 5 connections in 0 seconds.
+Fri Jan 30 19:47:18 Total is now 5 out of 56 (8%).
+Fri Jan 30 19:47:18 Saved as file SWEEP1.MAX
+Fri Jan 30 19:47:25 Saved as file BACKUP1.MAX
+Fri Jan 30 19:47:25 Saved as file BACKUP1.MAX
+Fri Jan 30 19:47:25 Saved as file BACKUP1.MAX
+Fri Jan 30 19:47:25 Routed 41 connections in 7 seconds.
+Fri Jan 30 19:47:25 Total is now 40 out of 56 (71%).
+Fri Jan 30 19:47:25 Saved as file SWEEP2.MAX
+Fri Jan 30 19:47:29 Saved as file BACKUP1.MAX
+Fri Jan 30 19:47:58 Saved as file BACKUP1.MAX
+Fri Jan 30 19:47:58 Saved as file BACKUP1.MAX
+Fri Jan 30 19:47:58 Routed 5 connections in 0 seconds.
+Fri Jan 30 19:47:58 Total is now 5 out of 56 (8%).
+Fri Jan 30 19:47:58 Saved as file SWEEP1.MAX
+Fri Jan 30 19:48:04 Saved as file BACKUP1.MAX
+Fri Jan 30 19:48:05 Saved as file BACKUP1.MAX
+Fri Jan 30 19:48:05 Routed 38 connections in 6 seconds.
+Fri Jan 30 19:48:05 Total is now 42 out of 56 (75%).
+Fri Jan 30 19:48:05 Saved as file SWEEP2.MAX
+Fri Jan 30 19:48:17 Routed 3 connections in 12 seconds.
+Fri Jan 30 19:48:17 Total is now 45 out of 56 (80%).
+Fri Jan 30 19:48:17 Saved as file SWEEP3.MAX
+Fri Jan 30 19:51:15 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:15 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:15 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:15 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:15 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:15 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:15 Routed 5 connections in 0 seconds.
+Fri Jan 30 19:51:15 Total is now 5 out of 56 (8%).
+Fri Jan 30 19:51:15 Saved as file SWEEP1.MAX
+Fri Jan 30 19:51:20 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:20 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:22 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:22 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:22 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:22 Saved as file BACKUP1.MAX
+Fri Jan 30 19:51:22 Routed 50 connections in 7 seconds.
+Fri Jan 30 19:51:22 Total is now 41 out of 56 (73%).
+Fri Jan 30 19:51:22 Saved as file SWEEP2.MAX
+Fri Jan 30 19:51:45 Saved as file ~undo.max
+Fri Jan 30 19:51:48 Saved as file ~undo.max
+Fri Jan 30 19:51:50 Saved as file ~undo.max
+Fri Jan 30 19:51:52 Saved as file ~undo.max
+Fri Jan 30 19:51:54 Saved as file ~undo.max
+Fri Jan 30 19:52:22 Saved as file ~undo.max
+Fri Jan 30 19:52:24 Saved as file ~undo.max
+Fri Jan 30 19:52:33 Saved as file ~undo.max
+Fri Jan 30 19:52:45 Saved as file ~undo.max
+Fri Jan 30 19:52:48 Saved as file ~undo.max
+Fri Jan 30 19:52:54 Saved as file ~undo.max
+Fri Jan 30 19:52:58 Saved as file ~undo.max
+Fri Jan 30 19:53:02 Saved as file ~undo.max
+Fri Jan 30 19:53:13 Saved as file ~undo.max
+Fri Jan 30 19:53:20 Saved as file ~undo.max
+Fri Jan 30 19:53:27 Saved as file ~undo.max
+Fri Jan 30 19:53:33 Saved as file ~undo.max
+Fri Jan 30 19:53:39 Saved as file ~undo.max
+Fri Jan 30 19:53:41 Saved as file ~undo.max
+Fri Jan 30 19:53:45 Saved as file ~undo.max
+Fri Jan 30 19:53:50 Saved as file ~undo.max
+Fri Jan 30 19:53:55 Saved as file ~undo.max
+Fri Jan 30 19:54:07 Saved as file ~undo.max
+Fri Jan 30 19:54:10 Saved as file ~undo.max
+Fri Jan 30 19:54:15 Saved as file ~undo.max
+Fri Jan 30 19:54:21 Saved as file ~undo.max
+Fri Jan 30 19:54:26 Saved as file ~undo.max
+Fri Jan 30 19:54:29 Saved as file ~undo.max
+Fri Jan 30 19:54:34 Saved as file ~undo.max
+Fri Jan 30 19:54:39 Saved as file ~undo.max
+Fri Jan 30 19:54:41 Saved as file ~undo.max
+Fri Jan 30 19:54:43 Saved as file ~undo.max
+Fri Jan 30 19:54:44 Saved as file ~undo.max
+Fri Jan 30 19:54:47 Saved as file ~undo.max
+Fri Jan 30 19:54:54 Saved as file ~undo.max
+Fri Jan 30 19:54:57 Saved as file ~undo.max
+Fri Jan 30 19:55:00 Saved as file ~undo.max
+Fri Jan 30 19:55:01 Saved as file ~undo.max
+Fri Jan 30 19:55:04 Saved as file ~undo.max
+Fri Jan 30 19:55:07 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 19:55:16 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 19:55:25 Error code 2170.056 (497)
+Fri Jan 30 19:55:25 Saved as file Backup0.max
+Fri Jan 30 19:55:25 Windows which were open at time of error:
+Fri Jan 30 19:55:25 	ActiveWindow: &Route
+Fri Jan 30 19:55:25 	Icon: &Components
+Fri Jan 30 19:55:25 	Icon: Post Proces&s
+Fri Jan 30 19:55:25 	Icon: &Nets
+Fri Jan 30 19:55:25 End-of-list
+Fri Jan 30 19:55:25 Loaded file BACKUP0.MAX
+Fri Jan 30 19:55:25 Saved as file BACKUP1.MAX
+Fri Jan 30 19:55:25 Saved as file BACKUP1.MAX
+Fri Jan 30 19:55:25 Routed 6 connections in 0 seconds.
+Fri Jan 30 19:55:25 Total is now 6 out of 56 (10%).
+Fri Jan 30 19:55:25 Saved as file SWEEP1.MAX
+Fri Jan 30 19:55:30 Saved as file BACKUP1.MAX
+Fri Jan 30 19:55:31 Saved as file BACKUP1.MAX
+Fri Jan 30 19:55:31 Routed 43 connections in 5 seconds.
+Fri Jan 30 19:55:31 Total is now 44 out of 56 (78%).
+Fri Jan 30 19:55:31 Saved as file SWEEP2.MAX
+Fri Jan 30 19:55:51 Routed 1 connections in 20 seconds.
+Fri Jan 30 19:55:51 Total is now 45 out of 56 (80%).
+Fri Jan 30 19:55:51 Saved as file SWEEP3.MAX
+Fri Jan 30 19:56:55 Routed 3 connections in 64 seconds.
+Fri Jan 30 19:56:55 Total is now 48 out of 56 (85%).
+Fri Jan 30 19:56:55 Saved as file SWEEP4.MAX
+Fri Jan 30 19:57:18 No new connections routed.
+Fri Jan 30 19:57:18 Total is now 48 out of 56 (85%).
+Fri Jan 30 19:57:18 Saved as file SWEEP5.MAX
+Fri Jan 30 19:58:27 Saved as file ~undo.max
+Fri Jan 30 20:01:10 Saved as file ~undo.max
+Fri Jan 30 20:01:14 Saved as file ~undo.max
+Fri Jan 30 20:01:19 Saved as file ~undo.max
+Fri Jan 30 20:05:55 Saved as file BACKUP1.MAX
+Fri Jan 30 20:12:49 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 20:13:50 Saved as file ~undo.max
+Fri Jan 30 20:13:56 Saved as file ~undo.max
+Fri Jan 30 20:14:35 Saved as file ~undo.max
+Fri Jan 30 20:14:56 Saved as file ~undo.max
+Fri Jan 30 20:15:55 Saved as file BACKUP1.MAX
+Fri Jan 30 20:16:03 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 20:21:52 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:21:52 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:21:53 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:21:53 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:22:03 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TM_AXIAL.llb
+Fri Jan 30 20:22:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:22:11 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:22:17 Saved as file ~undo.max
+Fri Jan 30 20:22:27 Saved as file ~undo.max
+Fri Jan 30 20:22:48 Saved as file ~undo.max
+Fri Jan 30 20:22:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:22:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:22:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:22:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:22:59 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\DCON050T.llb
+Fri Jan 30 20:23:00 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:03 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\BCON156T.llb
+Fri Jan 30 20:23:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:09 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:16 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:17 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:18 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:20 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:22 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:24 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:27 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:28 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:29 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:35 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:37 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:39 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:41 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:41 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:42 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\BGA.llb
+Fri Jan 30 20:23:43 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:44 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:44 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\CLCC.llb
+Fri Jan 30 20:23:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:47 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\DCON050T.llb
+Fri Jan 30 20:23:48 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:48 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:49 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:49 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\DCON085T.llb
+Fri Jan 30 20:23:50 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:50 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:51 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\DIMM050F.llb
+Fri Jan 30 20:23:52 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\DIN.llb
+Fri Jan 30 20:23:53 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:53 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:54 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:54 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:56 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:56 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:56 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:56 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:56 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:56 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:57 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:57 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:23:58 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\DIP100B.llb
+Fri Jan 30 20:24:00 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\ECON100T.llb
+Fri Jan 30 20:24:02 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:02 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:02 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:03 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:05 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:05 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:05 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:06 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\FBUS.llb
+Fri Jan 30 20:24:07 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:07 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:09 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\ISA.llb
+Fri Jan 30 20:24:10 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:11 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:12 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\JUMPER.LLB
+Fri Jan 30 20:24:12 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:13 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:14 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\LAYOUT.llb
+Fri Jan 30 20:24:14 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:15 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:17 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:18 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:19 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:20 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\LAYOUT.llb
+Fri Jan 30 20:24:20 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\LCON100T.llb
+Fri Jan 30 20:24:21 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:21 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:22 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:22 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\PC104.llb
+Fri Jan 30 20:24:25 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:25 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:27 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\PCI.llb
+Fri Jan 30 20:24:28 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\PCON100T.llb
+Fri Jan 30 20:24:28 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:29 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:29 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:32 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\PCON156T.llb
+Fri Jan 30 20:24:33 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:34 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:35 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:35 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:36 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:37 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:38 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:38 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:39 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:40 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:41 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:42 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:49 Saved as file ~undo.max
+Fri Jan 30 20:24:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:24:57 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\BGA.llb
+Fri Jan 30 20:25:03 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\PGA.llb
+Fri Jan 30 20:25:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:05 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\QUAD.llb
+Fri Jan 30 20:25:06 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\PLCC.llb
+Fri Jan 30 20:25:07 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:07 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\QUAD.llb
+Fri Jan 30 20:25:09 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:09 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:10 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\QUADB.llb
+Fri Jan 30 20:25:10 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:10 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:11 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\RELAY.llb
+Fri Jan 30 20:25:12 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:12 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:13 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\RF.llb
+Fri Jan 30 20:25:14 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:14 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:15 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SBUS.llb
+Fri Jan 30 20:25:16 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:17 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SBUS.llb
+Fri Jan 30 20:25:17 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SBUS.llb
+Fri Jan 30 20:25:18 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SIMM050F.llb
+Fri Jan 30 20:25:18 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:19 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:20 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SIMM100F.llb
+Fri Jan 30 20:25:20 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SIP.llb
+Fri Jan 30 20:25:21 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:21 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:21 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:24 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:25 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:25 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:25 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:27 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:27 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:28 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:28 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:28 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:29 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SM.llb
+Fri Jan 30 20:25:30 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:30 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:31 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:31 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:31 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:32 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:32 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:32 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:32 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:32 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:33 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:33 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:33 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:33 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:33 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:33 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:34 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:34 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:34 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:34 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:35 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SOG.llb
+Fri Jan 30 20:25:36 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:36 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:37 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SOJ.llb
+Fri Jan 30 20:25:38 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:38 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:39 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:39 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:40 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:40 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\SOJ.llb
+Fri Jan 30 20:25:41 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\STIFF.llb
+Fri Jan 30 20:25:42 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:43 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TELE.llb
+Fri Jan 30 20:25:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:47 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TM_AXIAL.llb
+Fri Jan 30 20:25:47 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:47 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:52 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TO.llb
+Fri Jan 30 20:25:53 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:53 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jan 30 20:25:55 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\VRES.llb
+Fri Jan 30 20:25:56 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:56 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:57 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:57 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:58 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\WCON100T.llb
+Fri Jan 30 20:25:59 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:25:59 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:00 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:00 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:00 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:01 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:01 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:01 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:02 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:02 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:03 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:03 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:04 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\XT.llb
+Fri Jan 30 20:26:05 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:26:06 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:32 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:32 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:33 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\BCON100T.llb
+Fri Jan 30 20:27:34 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:39 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:40 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:47 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:48 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:49 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:27:50 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jan 30 20:29:23 Saved as file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jan 30 20:29:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\BCON100T.llb
+Fri Jan 30 20:29:31 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:35 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:37 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:38 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:39 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:40 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:41 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:41 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:42 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:43 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:43 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:44 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:47 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:50 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:51 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:52 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:29:54 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:31:35 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jan 30 20:31:35 Saved as file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jan 30 20:31:35 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\BCON100T.llb
+Fri Jan 30 20:31:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:31:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:31:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:31:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:31:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\DCON050T.llb
+Fri Jan 30 20:31:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\DCON085T.llb
+Fri Jan 30 20:31:46 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\ZIGZAG.llb
+Fri Jan 30 20:31:47 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jan 30 20:31:49 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:31:56 Saved as file BACKUP1.MAX
+Fri Jan 30 20:32:03 Saved as file ~undo.max
+Fri Jan 30 20:32:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:08 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:09 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\CLCC.llb
+Fri Jan 30 20:32:09 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\ZIGZAG.llb
+Fri Jan 30 20:32:10 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jan 30 20:32:11 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:18 Saved as file ~undo.max
+Fri Jan 30 20:32:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:23 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:26 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\DCON050T.llb
+Fri Jan 30 20:32:27 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\ZIGZAG.llb
+Fri Jan 30 20:32:28 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jan 30 20:32:28 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Fri Jan 30 20:32:33 Saved as file ~undo.max
+Fri Jan 30 20:33:14 Saved as file ~undo.max
+Fri Jan 30 20:33:39 Saved as file ~undo.max
+Fri Jan 30 20:33:43 Saved as file ~undo.max
+Fri Jan 30 20:33:59 Saved as file ~undo.max
+Fri Jan 30 20:34:23 Saved as file ~undo.max
+Fri Jan 30 20:34:58 Saved as file ~undo.max
+Fri Jan 30 20:41:01 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 20:42:26 Saved as file BACKUP1.MAX
+Fri Jan 30 20:52:26 Saved as file BACKUP1.MAX
+Fri Jan 30 20:56:07 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Fri Jan 30 21:02:27 Saved as file BACKUP1.MAX
+Fri Jan 30 21:12:57 Saved as file BACKUP1.MAX
+Fri Jan 30 21:22:57 Saved as file BACKUP1.MAX
+Fri Jan 30 21:32:58 Saved as file BACKUP1.MAX
+Fri Jan 30 21:42:58 Saved as file BACKUP1.MAX
+Fri Jan 30 21:52:58 Saved as file BACKUP1.MAX
+Fri Jan 30 22:02:58 Saved as file BACKUP1.MAX
+Fri Jan 30 22:12:59 Saved as file BACKUP1.MAX
+Fri Jan 30 22:22:59 Saved as file BACKUP1.MAX
+Fri Jan 30 22:32:59 Saved as file BACKUP1.MAX
+Fri Jan 30 22:43:00 Saved as file BACKUP1.MAX
+Fri Jan 30 22:46:33 Saved as file I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\POWERBOARD\POWERBOARD-1.MAX
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Fri Jan 30 22:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Fri Jan 30 22:46:45 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+Fri Jan 30 22:46:45 Saved as file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+Sat Jan 31 01:13:23 Saved as file BACKUP1.MAX
+Sat Jan 31 01:20:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:20:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:20:58 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.met
+Sat Jan 31 01:23:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.met
+Sat Jan 31 01:24:02 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:24:03 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:04 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:04 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:05 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:05 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:08 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:09 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:09 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:10 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:11 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:11 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:11 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:12 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:12 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:12 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:13 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:13 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:13 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:14 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:14 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:14 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:14 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:14 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:14 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:15 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:15 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:15 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:15 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:16 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:16 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:16 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:16 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:16 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:17 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:17 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:17 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:17 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:17 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:17 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:18 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:24:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:24:45 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:25:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:25:46 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:25:47 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:25:47 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:25:48 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:25:49 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:25:49 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:25:49 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:28:06 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:28:06 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:28:06 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:28:07 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:28:07 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:28:08 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:28:08 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:28:08 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:30:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Sat Jan 31 01:30:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Sat Jan 31 01:30:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Sat Jan 31 01:30:15 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:15 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:15 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Sat Jan 31 01:30:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:19 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Sat Jan 31 01:30:19 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:22 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:23 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Sat Jan 31 01:30:24 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:24 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:26 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Sat Jan 31 01:30:27 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:27 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Sat Jan 31 01:30:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Sat Jan 31 01:30:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Sat Jan 31 01:30:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Sat Jan 31 01:30:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Sat Jan 31 01:30:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:38 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:38 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:41 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Sat Jan 31 01:30:42 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:42 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Sat Jan 31 01:30:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Sat Jan 31 01:30:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Sat Jan 31 01:30:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Sat Jan 31 01:30:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Sat Jan 31 01:30:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Sat Jan 31 01:30:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:30:59 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Sat Jan 31 01:31:00 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Sat Jan 31 01:31:02 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:04 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Sat Jan 31 01:31:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:07 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Sat Jan 31 01:31:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Sat Jan 31 01:31:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Sat Jan 31 01:31:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Sat Jan 31 01:31:14 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:14 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Sat Jan 31 01:31:18 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:18 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:19 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:20 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:20 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:41 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:41 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:42 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Sat Jan 31 01:31:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:49 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:50 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Sat Jan 31 01:31:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Sat Jan 31 01:31:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:58 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Sat Jan 31 01:31:59 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:31:59 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:02 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Sat Jan 31 01:32:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:04 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:05 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:07 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:07 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Sat Jan 31 01:32:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:32:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:33:25 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:34:38 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:35:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.met
+Sat Jan 31 01:35:41 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:35:53 Footprint coords will be rounded to nearest base unit.
+Sat Jan 31 01:36:01 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:36:18 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Sat Jan 31 01:36:18 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Sat Jan 31 01:36:18 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Sat Jan 31 01:36:21 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Sat Jan 31 01:36:23 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Sat Jan 31 01:36:24 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:36:25 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:39:23 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:40:08 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:40:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:41:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:41:58 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:42:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:42:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:43:07 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:43:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\padstack.llb
+Sat Jan 31 01:46:01 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Sat Jan 31 01:53:18 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Sat Jan 31 01:53:18 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Sat Jan 31 01:53:19 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Sat Jan 31 01:53:19 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Sat Jan 31 01:53:24 Saved as file BACKUP1.MAX

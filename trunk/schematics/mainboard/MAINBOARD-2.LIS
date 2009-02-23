@@ -1,0 +1,265 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+FILE-B: I:\INFORMATICA\PIC\JOHNNY5\SCHEMATICS\MAINBOARD\MAINBOARD.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package CON7
+Adding package CAP_NP
+Adding package CAP_POL
+Adding package CON8
+Adding package LED
+Adding package R
+Adding package CONN_PWR_2-R
+Adding package CONN_SOCKET_2X2
+Adding package CON4
+Adding package L78XX_TO220
+Adding package CON6
+Adding package PIC18F4550_40P
+Adding package SW_PUSHBUTTON
+Adding package ZTA
+Adding component J15
+Found footprint BLKCON.156/RH/TM1SQS/W.545/8 from PRT file for part CON7, comp J15
+Adding component C1
+Found footprint RAD/.300X.100/LS.200/.031 from PRT file for part CAP_NP, comp C1
+Adding component C2
+Adding component C4
+Found footprint CYL/D.175/LS.125/.031 from PRT file for part CAP_POL, comp C4
+Adding component J9
+Adding component D1
+Found footprint RAD/.150X.100/LS.100/.031 from PRT file for part LED, comp D1
+Adding component R4
+Found footprint TP\2P from PRT file for part R, comp R4
+Adding component C3
+Adding component J8
+Adding component J4
+Adding component J2
+Found footprint BLKCON.156/RH/TM1SQS/W.545/2 from PRT file for part CONN_PWR_2-R, comp J2
+Adding component R2
+Adding component R1
+Adding component J7
+Adding component J14
+Adding component J3
+Found footprint USB from PRT file for part CONN_SOCKET_2X2, comp J3
+Adding component J11
+Found footprint BLKCON.156/RH/TM1SQS/W.545/4 from PRT file for part CON4, comp J11
+Adding component U2
+Found footprint TO220AA/RF2 from PRT file for part L78XX_TO220, comp U2
+Adding component R3
+Adding component C6
+Adding component J5
+Adding component R6
+Adding component J1
+Found footprint BLKCON.100/RH/TM1SQ/W.425/6 from PRT file for part CON6, comp J1
+Adding component U1
+Found footprint DIP.100/40/W.600/L2.075 from PRT file for part PIC18F4550_40P, comp U1
+Adding component J10
+Adding component J6
+Adding component R5
+Adding component SW1
+Adding component Y1
+Found footprint RAD/.250X.125/LS.200/.031 from PRT file for part ZTA, comp Y1
+Adding component D2
+Adding component SW2
+Adding component C5
+Adding net RB2
+Adding net RB4
+Adding net RE3
+Adding net RE2
+Adding net RE1
+Adding net RE0
+Adding net RC5
+Adding net RC4
+Adding net RC6
+Adding net RC7
+Adding net RC1
+Adding net RC2
+Adding net RC0
+Adding net RD0
+Adding net RD1
+Adding net RD2
+Adding net RD6
+Adding net RD3
+Adding net N00802
+Adding net RD4
+Adding net GND
+Adding net RD7
+Adding net RD5
+Adding net N00894
+Adding net VCC-5V
+Adding net VCC
+Adding net N80497
+Adding net N88980
+Adding net N89175
+Adding net N04463
+Adding net PGM
+Adding net VDD
+Adding net PGD
+Adding net PGC
+Adding net RA4
+Adding net RA6
+Adding net RA1
+Adding net RA5
+Adding net RA2
+Adding net RA3
+Adding net RA0
+Adding net RB1
+Adding net RB3
+Adding net RB0
+Adding J9.1 to net RB0
+Adding J8.1 to net RB0
+Adding U1.33 to net RB0
+Adding J9.4 to net RB3
+Adding J8.4 to net RB3
+Adding U1.36 to net RB3
+Adding J9.2 to net RB1
+Adding J8.2 to net RB1
+Adding U1.34 to net RB1
+Adding J7.1 to net RA0
+Adding U1.2 to net RA0
+Adding J6.1 to net RA0
+Adding U1.5 to net RA3
+Adding J7.4 to net RA3
+Adding J6.4 to net RA3
+Adding U1.4 to net RA2
+Adding J7.3 to net RA2
+Adding J6.3 to net RA2
+Adding U1.7 to net RA5
+Adding J7.6 to net RA5
+Adding J6.6 to net RA5
+Adding J7.2 to net RA1
+Adding U1.3 to net RA1
+Adding J6.2 to net RA1
+Adding U1.14 to net RA6
+Adding Y1.1 to net RA6
+Adding C2.2 to net RA6
+Adding J7.7 to net RA6
+Adding J6.7 to net RA6
+Adding U1.6 to net RA4
+Adding J7.5 to net RA4
+Adding J6.5 to net RA4
+Adding C6.2 to net PGC
+Adding U1.39 to net PGC
+Adding J1.5 to net PGC
+Adding J9.7 to net PGC
+Adding J8.7 to net PGC
+Adding J9.8 to net PGD
+Adding J1.4 to net PGD
+Adding C5.2 to net PGD
+Adding U1.40 to net PGD
+Adding J8.8 to net PGD
+Adding J1.2 to net VDD
+Adding U1.32 to net VDD
+Adding U1.11 to net VDD
+Adding U1.38 to net PGM
+Adding J1.6 to net PGM
+Adding J8.6 to net PGM
+Adding J9.6 to net PGM
+Adding R3.2 to net N04463
+Adding J3.1 to net N04463
+Adding D1.1 to net N89175
+Adding R6.1 to net N89175
+Adding D2.1 to net N88980
+Adding R5.1 to net N88980
+Adding C4.1 to net N80497
+Adding U2.1 to net VCC
+Adding J2.1 to net VCC
+Adding R2.2 to net VCC-5V
+Adding R1.2 to net VCC-5V
+Adding U2.3 to net VCC-5V
+Adding R4.2 to net VCC-5V
+Adding C3.2 to net N00894
+Adding Y1.2 to net N00894
+Adding U1.13 to net N00894
+Adding U1.28 to net RD5
+Adding J5.6 to net RD5
+Adding J4.6 to net RD5
+Adding J5.8 to net RD7
+Adding J4.8 to net RD7
+Adding U1.30 to net RD7
+Adding C5.1 to net GND
+Adding C6.1 to net GND
+Adding C4.2 to net GND
+Adding SW2.1 to net GND
+Adding J1.3 to net GND
+Adding C3.1 to net GND
+Adding R3.1 to net GND
+Adding J3.4 to net GND
+Adding SW1.1 to net GND
+Adding U2.2 to net GND
+Adding D2.2 to net GND
+Adding D1.2 to net GND
+Adding J2.2 to net GND
+Adding C1.1 to net GND
+Adding U1.12 to net GND
+Adding U1.31 to net GND
+Adding C2.1 to net GND
+Adding U1.27 to net RD4
+Adding J5.5 to net RD4
+Adding J4.5 to net RD4
+Adding C1.2 to net N00802
+Adding U1.18 to net N00802
+Adding U1.22 to net RD3
+Adding J5.4 to net RD3
+Adding J4.4 to net RD3
+Adding J5.7 to net RD6
+Adding J4.7 to net RD6
+Adding U1.29 to net RD6
+Adding U1.21 to net RD2
+Adding J5.3 to net RD2
+Adding J4.3 to net RD2
+Adding U1.20 to net RD1
+Adding R6.2 to net RD1
+Adding J5.2 to net RD1
+Adding J4.2 to net RD1
+Adding J4.1 to net RD0
+Adding U1.19 to net RD0
+Adding R5.2 to net RD0
+Adding J5.1 to net RD0
+Adding J14.1 to net RC0
+Adding U1.15 to net RC0
+Adding J15.1 to net RC0
+Adding J15.3 to net RC2
+Adding J14.3 to net RC2
+Adding U1.17 to net RC2
+Adding J15.2 to net RC1
+Adding J14.2 to net RC1
+Adding U1.16 to net RC1
+Adding J15.7 to net RC7
+Adding U1.26 to net RC7
+Adding J14.7 to net RC7
+Adding J15.6 to net RC6
+Adding U1.25 to net RC6
+Adding J14.6 to net RC6
+Adding J15.4 to net RC4
+Adding J14.4 to net RC4
+Adding J3.2 to net RC4
+Adding U1.23 to net RC4
+Adding J15.5 to net RC5
+Adding U1.24 to net RC5
+Adding R1.1 to net RC5
+Adding J3.3 to net RC5
+Adding J14.5 to net RC5
+Adding U1.8 to net RE0
+Adding J10.1 to net RE0
+Adding J11.1 to net RE0
+Adding J11.2 to net RE1
+Adding U1.9 to net RE1
+Adding J10.2 to net RE1
+Adding J11.3 to net RE2
+Adding U1.10 to net RE2
+Adding J10.3 to net RE2
+Adding J11.4 to net RE3
+Adding R2.1 to net RE3
+Adding SW1.2 to net RE3
+Adding U1.1 to net RE3
+Adding J10.4 to net RE3
+Adding J1.1 to net RB4
+Adding R4.1 to net RB4
+Adding SW2.2 to net RB4
+Adding U1.37 to net RB4
+Adding J8.5 to net RB4
+Adding J9.5 to net RB4
+Adding J9.3 to net RB2
+Adding J8.3 to net RB2
+Adding U1.35 to net RB2
+*EOF*
+No errors found
