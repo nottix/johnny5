@@ -27,6 +27,7 @@
 #include "bluetooth_layer.h"
 #include "j_protocol.h"
 #include <pthread.h>
+#include <termios.h>
 
 GQueue *recvQueue;
 
@@ -80,7 +81,6 @@ int main(int argc,char **argv) {
 	
 	if(strcmp(argv[1], "bt")==0) {
 		j_packet *packet = j_create_packet(0x55, "Hello", 6);
-		printf("id: %x\n", packet->id);
 		printf("type: %x\n", packet->type);
 		printf("len: %d\n", packet->len);
 		printf("data: %s\n", packet->data);
@@ -89,7 +89,6 @@ int main(int argc,char **argv) {
 		printf("Bin: %s\n", hex_dump(bin, J_PACKET_LEN, 10));
 	
 		j_packet *npacket = j_bin_to_struct(bin);
-		printf("id: %x\n", npacket->id);
 		printf("type: %x\n", npacket->type);
 		printf("len: %d\n", npacket->len);
 		printf("data: %s\n", npacket->data);
@@ -99,10 +98,10 @@ int main(int argc,char **argv) {
 		pthread_t *recv_t;
 		recv_t = (pthread_t*)malloc(sizeof(pthread_t));
 		
-		//pthread_create(recv_t, NULL, recv_thread, (void*)(&socket));
+		pthread_create(recv_t, NULL, recv_thread, (void*)(&socket));
 		
 		while(1) {
-			sleep(3);
+			sleep(2);
 			j_send(socket, bin, J_PACKET_LEN);
 			//char *data = (char*)g_queue_pop_head(recvQueue);
 			//if(data!=NULL)
