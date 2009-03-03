@@ -80,7 +80,24 @@ int main(int argc,char **argv) {
 	}
 	
 	if(strcmp(argv[1], "bt")==0) {
-		j_packet *packet = j_create_packet(0x55, "Hello", 6);
+		j_packet *packet = j_create_packet(J_COMMAND, "Hello", 6);
+//		packet->data[0] = 0x80;
+		packet->data[0] = J_MOVE_MOTORS;
+		packet->data[1] = 0;
+		packet->data[2] = 0;
+		packet->data[3] = 0;
+		packet->data[4] = 255;
+		packet->data[5] = 0;
+		packet->data[6] = 0;
+		packet->data[7] = 0;
+		packet->data[8] = 255;
+		
+//		int start = 1;
+//		u_int4 out = ((0xFF000000 & (packet->data[start+0]<<3))+(0x00FF0000 & (packet->data[start+1]<<2))+(0x0000FF00 & (packet->data[start+2]<<1))+(0x000000FF & (packet->data[start+3])));
+//		printf("sizeof: %d, u_int4: %lu\n", sizeof(u_int4), out);
+//		return 0;
+		packet->data[9] = J_DIR1_ANTICLOAK;
+		packet->data[10] = J_DIR2_CLOAK;
 		printf("type: %x\n", packet->type);
 		printf("len: %d\n", packet->len);
 		printf("data: %s\n", packet->data);
@@ -101,8 +118,8 @@ int main(int argc,char **argv) {
 		pthread_create(recv_t, NULL, recv_thread, (void*)(&socket));
 		
 		while(1) {
-			sleep(2);
 			j_send(socket, bin, J_PACKET_LEN);
+			sleep(20);
 			//char *data = (char*)g_queue_pop_head(recvQueue);
 			//if(data!=NULL)
 			//	printf("pop: %s\n", hex_dump(data, 1, 10));
@@ -122,7 +139,7 @@ int main(int argc,char **argv) {
 		memset(receive_data, 0, 64);
 
 		usb_init();
-		usb_set_debug(0);
+		usb_set_debug(3);
 	
 		unsigned char located = 0;
 		struct usb_bus *bus;
@@ -156,13 +173,13 @@ int main(int argc,char **argv) {
 		if(j_device!=NULL && j_handle!=NULL) {
 
 			open_status = usb_set_configuration(j_handle, j_device->config[0].bConfigurationValue);
-			//printf("conf_stat=%d\n",open_status);
+			printf("conf_stat=%d\n",open_status);
 	
 			open_status = usb_claim_interface(j_handle,0);
-			//printf("claim_stat=%d\n",open_status);
+			printf("claim_stat=%d\n",open_status);
 	
 			open_status = usb_set_altinterface(j_handle,0);
-			//printf("alt_stat=%d\n",open_status);
+			printf("alt_stat=%d\n",open_status);
 
 			char ch=0, n;
 			while(ch!='q') {
