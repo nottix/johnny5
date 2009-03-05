@@ -26,6 +26,7 @@
 #include "utils.h"
 #include "bluetooth_layer.h"
 #include "j_protocol.h"
+#include "j_command_manager.h"
 #include <pthread.h>
 #include <termios.h>
 
@@ -61,6 +62,14 @@ void printMenu(void) {
 	printf("\nCommand: ");
 }
 
+void printMenuBt(void) {
+	printf("\t\t-->Menu<--\n\n");
+	printf("\tc: Motors conf\n");
+	printf("\tm: Move motors\n");
+	printf("\tq: Quit\n");
+	printf("\tCommand: ");
+}
+
 void *recv_thread(void *arg) {
 	int *socket = (int*)arg;
 	printf("recv on socket %d\n", *socket);
@@ -80,46 +89,82 @@ int main(int argc,char **argv) {
 	}
 	
 	if(strcmp(argv[1], "bt")==0) {
-		j_packet *packet = j_create_packet(J_COMMAND, "Hello", 6);
-//		packet->data[0] = 0x80;
-		packet->data[0] = J_MOVE_MOTORS;
-		packet->data[1] = 0;
-		packet->data[2] = 0;
-		packet->data[3] = 0;
-		packet->data[4] = 255;
-		packet->data[5] = 0;
-		packet->data[6] = 0;
-		packet->data[7] = 0;
-		packet->data[8] = 255;
-		
+		u_int4 period;
+		u_int4 duty;
+		u_int4 tolerance;
+		u_int4 enc1, enc2;
+		u_int1 dir1, dir2;
 //		int start = 1;
 //		u_int4 out = ((0xFF000000 & (packet->data[start+0]<<3))+(0x00FF0000 & (packet->data[start+1]<<2))+(0x0000FF00 & (packet->data[start+2]<<1))+(0x000000FF & (packet->data[start+3])));
 //		printf("sizeof: %d, u_int4: %lu\n", sizeof(u_int4), out);
 //		return 0;
-		packet->data[9] = J_DIR1_ANTICLOAK;
-		packet->data[10] = J_DIR2_CLOAK;
-		printf("type: %x\n", packet->type);
-		printf("len: %d\n", packet->len);
-		printf("data: %s\n", packet->data);
-	
-		u_int1 *bin = j_struct_to_bin(packet);
-		printf("Bin: %s\n", hex_dump(bin, J_PACKET_LEN, 10));
-	
-		j_packet *npacket = j_bin_to_struct(bin);
-		printf("type: %x\n", npacket->type);
-		printf("len: %d\n", npacket->len);
-		printf("data: %s\n", npacket->data);
+
 	
 		int socket=bt_connect(BT_JOHNNY);
+		/*if(socket<=0) {
+			printf("[johnnyCon] Error while connecting to Johnny\n");
+			return -1;
+		}*/
 		
 		pthread_t *recv_t;
 		recv_t = (pthread_t*)malloc(sizeof(pthread_t));
-		
 		pthread_create(recv_t, NULL, recv_thread, (void*)(&socket));
 		
+	/*	enc1 = 255;
+		enc2 = 255;
+		dir1 = J_DIR1_CLOAK;
+		dir2 = J_DIR2_CLOAK;
 		while(1) {
-			j_send(socket, bin, J_PACKET_LEN);
-			sleep(20);
+//			j_blink(socket);
+//			j_motors_conf(socket, 50,40,4);
+			//sleep(20);
+//			sleep(4);
+			j_move_motors(socket, enc1, enc2, dir1, dir2);
+			sleep(10);
+		}*/
+		char ch=0, n, n1;
+		int d;
+		while(ch!='q') {
+			printMenuBt();
+			scanf("%c", &ch);
+			scanf("%c", &n);
+			switch(ch) {
+				case 'c':
+					printf("Period, Duty, Tolerance\n");
+					scanf("%u,%u,%u", &period, &duty, &tolerance);
+					scanf("%c", &n1);
+					printf("Period %u, Duty %u, Tolerance %u\n", period, duty, tolerance);
+					j_motors_conf(socket, period, duty, tolerance);
+					break;
+				case 'm':
+					printf("Enc1, Enc2\n");
+					scanf("%u,%u", &enc1, &enc2);
+					scanf("%c", &n);
+					printf("Dir1: \n\t1: Cloak \n\t2: Anticloak\n");
+					scanf("%d", &d);
+					scanf("%c", &n1);
+					if(d==1)
+						dir1=J_DIR1_CLOAK;
+					else if(d==2)
+						dir1=J_DIR1_ANTICLOAK;
+					
+					printf("Dir2: \n\t1: Cloak \n\t2: Anticloak\n");
+					scanf("%d", &d);
+					scanf("%c", &n1);
+					if(d==1)
+						dir2=J_DIR2_CLOAK;
+					else if(d==2)
+						dir2=J_DIR2_ANTICLOAK;
+						
+					printf("Enc1 %u, Enc2 %u, Dir1 0x%x, Dir2 0x%x\n", enc1, enc2, dir1, dir2);
+					j_move_motors(socket, enc1, enc2, dir1, dir2);
+					break;
+				default:
+					break;
+					
+			}
+			//j_send(socket, bin, J_PACKET_LEN);
+//			printf("p %u\n", var);
 			//char *data = (char*)g_queue_pop_head(recvQueue);
 			//if(data!=NULL)
 			//	printf("pop: %s\n", hex_dump(data, 1, 10));
