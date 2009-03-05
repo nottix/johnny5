@@ -20,9 +20,11 @@
 #define J_COMMAND		0x10
 
 //Johnny command
+//Johnny command
 #define J_MOVE_MOTORS	0xA0	// Muove i motori dei passi desiderati
-#define J_SET_DIRS		0xA1	// Imposta le direzioni dei motori
-#define J_READ_ENCS		0xA2	// Legge i valori degli encoder
+#define J_MOTORS_CONF	0xA1
+#define J_SET_DIRS		0xA2	// Imposta le direzioni dei motori
+#define J_READ_ENCS		0xA3	// Legge i valori degli encoder
 
 //Motors directions
 #define J_DIR1_CLOAK		0x20	// Direzione oraria del motore 1
