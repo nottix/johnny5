@@ -66,6 +66,11 @@ void printMenuBt(void) {
 	printf("\t\t-->Menu<--\n\n");
 	printf("\tc: Motors conf\n");
 	printf("\tm: Move motors\n");
+	printf("\tr: Read I2C Register\n");
+	printf("\tw: Write I2C Register\n");
+	printf("\tt: LCD Init\n");
+	printf("\tl: LCD Print\n");
+	printf("\tp: PWM Test (20, 40)\n");
 	printf("\tq: Quit\n");
 	printf("\tCommand: ");
 }
@@ -94,6 +99,9 @@ int main(int argc,char **argv) {
 		u_int4 tolerance;
 		u_int4 enc1, enc2;
 		u_int1 dir1, dir2;
+		u_int4 reg, adr, dat, pwm1, duty1;
+		u_int1 data[J_DATA_LEN];
+		j_packet *p;
 //		int start = 1;
 //		u_int4 out = ((0xFF000000 & (packet->data[start+0]<<3))+(0x00FF0000 & (packet->data[start+1]<<2))+(0x0000FF00 & (packet->data[start+2]<<1))+(0x000000FF & (packet->data[start+3])));
 //		printf("sizeof: %d, u_int4: %lu\n", sizeof(u_int4), out);
@@ -158,6 +166,66 @@ int main(int argc,char **argv) {
 						
 					printf("Enc1 %u, Enc2 %u, Dir1 0x%x, Dir2 0x%x\n", enc1, enc2, dir1, dir2);
 					j_move_motors(socket, enc1, enc2, dir1, dir2);
+					break;
+				case 'r':
+					printf("Address: ");
+					scanf("%x", &adr);
+					scanf("%c", &n1);
+					printf("Register: ");
+					scanf("%x", &reg);
+					scanf("%c", &n1);
+					data[0] = 0x30;
+					data[1] = adr;
+					data[2] = reg;
+					p = j_create_packet(J_COMMAND, data, 3);
+					j_send(socket, p, J_PACKET_LEN);
+					break;
+				case 'w':
+					printf("Address: ");
+					scanf("%x", &adr);
+					scanf("%c", &n1);
+					printf("Register: ");
+					scanf("%x", &reg);
+					scanf("%c", &n1);
+					printf("Data: ");
+					scanf("%x", &dat);
+					scanf("%c", &n1);
+					printf("Address: 0x%x, Register: 0x%x, Data: 0x%x\n", adr, reg, dat);
+					data[0] = 0x31;
+					data[1] = adr;
+					data[2] = reg;
+					data[3] = dat;
+					p = j_create_packet(J_COMMAND, data, 4);
+					j_send(socket, p, J_PACKET_LEN);
+					break;
+				case 't':
+					data[0] = J_LCD_INIT;
+					p = j_create_packet(J_COMMAND, data, 1);
+					j_send(socket, p, J_PACKET_LEN);
+					break;
+				case 'l':
+					printf("String: ");
+					u_int1 *iter = data;
+					iter++;
+					scanf("%s", iter);
+					scanf("%c", &n1);
+					data[0] = J_LCD_PRINT;
+					p = j_create_packet(J_COMMAND, data, strlen(data));
+					j_send(socket, p, J_PACKET_LEN);
+					break;
+				case 'p':
+					data[0] = J_PWM_TEST;
+					printf("PWM: ");
+					scanf("%u", &pwm1);
+					scanf("%c", &n1);
+					printf("Duty: ");
+					scanf("%u", &duty1);
+					scanf("%c", &n1);
+					printf("PWM: %u, Duty: %u\n", pwm1, duty1);
+					p = j_create_packet(J_COMMAND, data, 10);
+					SET_UINT4(pwm1, p, 1);
+					SET_UINT4(duty1, p, 5);
+					j_send(socket, p, J_PACKET_LEN);
 					break;
 				default:
 					break;
