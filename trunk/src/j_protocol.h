@@ -25,6 +25,9 @@
 #define J_MOTORS_CONF	0xA1
 #define J_SET_DIRS		0xA2	// Imposta le direzioni dei motori
 #define J_READ_ENCS		0xA3	// Legge i valori degli encoder
+#define J_LCD_INIT		0xA4	// Init LCD
+#define J_PWM_TEST		0xA5	// Test PWM
+#define J_LCD_PRINT		0xA6	// Print on LCD
 
 //Motors directions
 #define J_DIR1_CLOAK		0x20	// Direzione oraria del motore 1

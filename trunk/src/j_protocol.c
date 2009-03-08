@@ -46,7 +46,6 @@ char *j_recv(int socket, int *len) {
 	printf("[j_recv] Enter\n");
 //	while((n_read=recv(socket, data, J_LEN, J_FLAGS))>0) {
 	while((n_read=read(socket, data, J_LEN))>0) {
-		printf("[j_recv] Received: %s\n", hex_dump(data, n_read, 10));
 		if(data[0]==J_START_CODE && n_read<J_PACKET_LEN) {
 			memcpy(packet, data, n_read);
 			*len = n_read;
@@ -61,7 +60,9 @@ char *j_recv(int socket, int *len) {
 			memcpy(iter, data, n_read);
 			*len += n_read;
 		}
-		printf("[j_recv] Received: %s\n", hex_dump(packet, *len, 10));
+		
+		if(data[0]==J_END_CODE)
+			printf("[j_recv] Received: %s\n", hex_dump(packet, *len, 10));
 		//g_queue_push_tail(recvQueue, (gpointer)data);
 	}
 	printf("[j_recv] Exit\n");
